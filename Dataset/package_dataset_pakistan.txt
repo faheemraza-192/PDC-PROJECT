@@ -1,0 +1,501 @@
+package_id	place_name	province	latitude	longitude	category	duration_days	min_price	avg_price	max_price	transport	accommodation	rating	reviews_count	popularity_score	best_season	difficulty	nearby_city	tags	created_at
+PKG0001	Sandspit Beach Viewpoint	Islamabad Capital	36.334585	74.1217	Nature	10	16388	17980	21266	Road	3-star	4.1	890	2.63	Summer	Moderate	Lahore	hiking,food,family	2024-06-07T20:38:27.495065
+PKG0002	Sakesar Lake	Sindh	26.54609	66.138465	Beach	10	500	2328	4457	Air	3-star	4.4	330	0.34	All Year	Hard	Lahore	wildlife,budget,beach	2025-10-13T20:38:27.495115
+PKG0003	Ranikot Fort	Khyber Pakhtunkhwa	36.272331	73.989993	Beach	4	17738	18475	20948	Hike	Budget Hotel	4.6	175	0.1	Winter	Easy	Gwadar	culture,heritage,hiking	2023-12-27T20:38:27.495151
+PKG0004	Karoonjhar Hills	Gilgit-Baltistan	34.490762	74.666043	Trekking	4	8806	11514	13661	Train	4-star	3.9	764	0.41	Winter	Hard	Rawalpindi	lake,trek,hiking	2025-08-28T20:38:27.495181
+PKG0005	Hub River	Punjab	31.529852	70.380688	Religious	1	9661	10451	11433	Air	Budget Hotel	3.2	64	1.13	Autumn	Easy	Hunza	trek,family,photography	2024-06-22T20:38:27.495207
+PKG0006	Murree Mall Road	Gilgit-Baltistan	34.293871	77.113085	Cultural	4	11461	13898	17732	Air	Budget Hotel	3.4	198	0.3	Winter	Moderate	Sialkot	luxury,beach,mountains	2023-12-13T20:38:27.495233
+PKG0007	Neelum Valley Heritage Site	Azad Kashmir	32.090507	73.115728	City	2	2033	3551	5620	Air	Luxury Resort	3.5	918	1.22	Summer	Moderate	Islamabad	family,beach,trek	2025-08-16T20:38:27.495257
+PKG0008	Ranikot	Islamabad Capital	35.848095	73.341952	Historical	10	4663	5223	6487	Air	Guesthouse	4.5	832	1.44	Winter	Moderate	Peshawar	luxury,mountains,heritage	2024-10-09T20:38:27.495289
+PKG0009	Badshahi Mosque, Lahore	Balochistan	27.591218	67.704424	Cultural	5	3501	5733	10219	Air	Guesthouse	4.3	607	1.87	Summer	Easy	Skardu	hiking,culture,mountains	2023-09-28T20:38:27.495328
+PKG0010	Ziarat	Punjab	28.300854	71.860731	Adventure	1	8818	11398	12554	Air	Budget Hotel	4.7	139	0.21	Summer	Moderate	Karachi	wildlife,trek,food	2024-03-03T20:38:27.495363
+PKG0011	Eagle's Nest, Gilgit	Gilgit-Baltistan	33.9919	75.444239	City	5	4053	5389	8462	Air	3-star	5.0	810	0.26	Summer	Hard	Gilgit	family,beach,budget	2023-09-24T20:38:27.495401
+PKG0012	Naltar Valley	Punjab	30.749713	74.990727	Nature	2	9096	11798	14044	Hike	3-star	4.2	271	4.8	Autumn	Easy	Peshawar	budget,family,heritage	2024-08-10T20:38:27.495426
+PKG0013	Kotli Heritage Site	Azad Kashmir	33.315103	76.60312	Historical	10	12209	13935	15283	Air	3-star	3.6	236	0.75	Spring	Hard	Hunza	heritage,family,hiking	2024-02-21T20:38:27.495449
+PKG0014	Kotli	Azad Kashmir	33.557282	74.824983	Beach	10	23168	25669	28226	Road	Budget Hotel	4.8	867	0.41	Autumn	Easy	Lahore	budget,heritage,photography	2025-02-06T20:38:27.495472
+PKG0015	Kalash Valley	Azad Kashmir	34.151013	74.934005	Historical	2	12622	13430	15151	Hike	Budget Hotel	4.3	756	0.19	All Year	Hard	Islamabad	luxury,heritage,mountains	2024-12-21T20:38:27.495494
+PKG0016	Gurez Valley	Islamabad Capital	36.513178	70.279369	City	4	1423	2945	4287	Train	Luxury Resort	3.4	832	0.63	All Year	Hard	Islamabad	trek,heritage,hiking	2024-09-05T20:38:27.495517
+PKG0017	Margalla Hills	Sindh	27.919387	67.493113	Trekking	4	10644	12236	14040	Road	4-star	4.7	79	0.66	Winter	Easy	Peshawar	beach,budget,family	2025-03-13T20:38:27.495541
+PKG0018	Khewra Crystal Caves	Punjab	31.960199	71.390796	Beach	2	573	2216	5592	Hike	4-star	4.3	1098	3.24	Autumn	Easy	Karachi	family,heritage,wildlife	2025-02-03T20:38:27.495588
+PKG0019	Attabad Lake	Punjab	31.579428	71.074123	City	7	1955	4938	9627	Road	4-star	4.5	1180	0.1	Summer	Moderate	Lahore	hiking,luxury,mountains	2024-05-18T20:38:27.495617
+PKG0020	Minar-e-Pakistan Trail	Azad Kashmir	35.81658	75.1517	Religious	6	10226	12492	13565	Train	Luxury Resort	4.6	642	2.61	Spring	Hard	Quetta	culture,family,photography	2024-09-09T20:38:27.495640
+PKG0021	Hinglaj Mata Temple area	Balochistan	30.18325	66.326475	Religious	7	1912	3964	5889	Hike	Luxury Resort	4.0	616	3.98	Winter	Hard		mountains,family,hiking	2025-03-31T20:38:27.495662
+PKG0022	Badin	Islamabad Capital	34.159909	73.968234	Cultural	8	500	1000	3250	Hike	4-star	4.7	347	0.13	Spring	Moderate	Hunza	photography,food,wildlife	2024-11-23T20:38:27.495685
+PKG0023	Taxila Museum	Islamabad Capital	36.391998	71.449212	Beach	4	1046	2361	4068	Road	Budget Hotel	3.6	501	2.62	Winter	Hard		food,lake,beach	2024-09-03T20:38:27.495710
+PKG0024	Ormara Cliffs Falls	Gilgit-Baltistan	34.666611	75.678126	Cultural	7	12509	14008	15716	Road	Budget Hotel	4.3	870	1.28	Summer	Easy	Gwadar	hiking,culture,beach	2025-09-11T20:38:27.495732
+PKG0025	Malakand Pass Valley	Sindh	29.00482	66.228152	Adventure	8	14494	17169	20268	Private Van	Luxury Resort	3.9	1033	2.86	Winter	Hard	Rawalpindi	heritage,hiking,beach	2024-07-29T20:38:27.495759
+PKG0026	Multan	Islamabad Capital	32.163438	73.865969	Cultural	4	16348	17972	22075	Road	Camping	4.4	585	1.36	Summer	Moderate	Multan	budget,culture,lake	2025-06-13T20:38:27.495802
+PKG0027	Frere Hall, Karachi	Sindh	25.798212	66.416832	Religious	2	500	1000	4839	Train	Luxury Resort	4.6	954	0.1	Winter	Easy	Peshawar	luxury,food,wildlife	2023-11-20T20:38:27.495837
+PKG0028	Daman-e-Koh, Islamabad	Islamabad Capital	35.96394	73.494142	Cultural	1	500	1000	3946	Private Van	4-star	4.7	1102	1.42	All Year	Hard	Peshawar	beach,trek,family	2024-08-12T20:38:27.495866
+PKG0029	Lasbela	Punjab	30.333143	73.013242	Trekking	3	11267	13681	15226	Hike	Luxury Resort	4.4	55	1.06	Winter	Hard	Skardu	photography,mountains,lake	2024-01-13T20:38:27.495889
+PKG0030	Katas Raj	Sindh	28.701108	66.590374	Beach	7	2424	4264	6497	Private Van	3-star	4.6	691	0.16	Winter	Moderate	Gwadar	luxury,family,lake	2024-07-08T20:38:27.495913
+PKG0031	Faisal Mosque, Islamabad	Azad Kashmir	34.736514	76.699447	City	4	3368	4149	4978	Road	Guesthouse	3.9	408	5.31	Spring	Hard	Islamabad	trek,heritage,beach	2023-12-17T20:38:27.495936
+PKG0032	Hingol National Park	Gilgit-Baltistan	39.186542	74.290204	Beach	6	10821	12008	13446	Air	3-star	4.8	221	4.1	All Year	Easy	Quetta	wildlife,photography,luxury	2024-09-21T20:38:27.495958
+PKG0033	Kumrat Valley Resort	Sindh	23.955979	69.643686	Religious	2	4086	5821	7312	Hike	Budget Hotel	4.5	711	4.46	All Year	Moderate	Gilgit	budget,lake,culture	2024-01-08T20:38:27.495983
+PKG0034	Marine Drive, Karachi	Punjab	33.097454	73.933986	Nature	7	21248	23231	27497	Air	4-star	4.3	360	4.53	All Year	Hard	Quetta	wildlife,culture,beach	2024-07-13T20:38:27.496025
+PKG0035	Thatta	Islamabad Capital	35.066157	71.650373	Religious	2	3145	4787	8979	Air	4-star	4.0	1167	0.52	All Year	Hard	Sialkot	budget,mountains,beach	2024-12-04T20:38:27.496049
+PKG0036	Lake Saiful Muluk	Balochistan	27.272719	67.786994	City	5	13701	16642	19405	Hike	Budget Hotel	4.1	1058	3.94	Summer	Easy	Peshawar	hiking,luxury,beach	2024-04-12T20:38:27.496071
+PKG0037	Rama Meadow Valley	Sindh	27.643656	69.375417	Cultural	8	8460	9030	10292	Train	Guesthouse	4.1	828	1.08	Summer	Moderate	Gilgit	wildlife,budget,beach	2024-04-14T20:38:27.496093
+PKG0038	Makli Necropolis Heritage Site	Khyber Pakhtunkhwa	33.553023	73.475613	City	6	4268	6626	9345	Train	3-star	4.1	472	0.82	Spring	Hard	Peshawar	budget,lake,culture	2023-09-13T20:38:27.496115
+PKG0039	Hingol National Park Viewpoint	Sindh	24.649246	69.931628	Beach	10	5088	8032	10850	Road	Guesthouse	4.4	606	1.46	Summer	Moderate	Islamabad	family,mountains,culture	2025-06-25T20:38:27.496136
+PKG0040	Peshawar	Punjab	33.84577	72.320154	Adventure	8	8421	9341	9941	Hike	3-star	4.9	961	7.14	Winter	Moderate	Multan	heritage,mountains,family	2024-06-30T20:38:27.496160
+PKG0041	Hingol National Park	Islamabad Capital	31.072061	72.990479	Historical	3	500	1000	3989	Road	Guesthouse	4.2	242	0.67	All Year	Moderate	Skardu	wildlife,food,trek	2023-08-30T20:38:27.496182
+PKG0042	Murree Mall Road Viewpoint	Balochistan	28.703087	65.656326	Trekking	5	12785	15614	16607	Hike	Camping	4.0	203	1.4	Summer	Hard	Peshawar	family,photography,lake	2025-05-25T20:38:27.496206
+PKG0043	Abbottabad	Sindh	26.811953	66.439196	Trekking	8	10913	13845	18194	Train	Budget Hotel	4.4	474	0.31	Autumn	Hard	Quetta	hiking,beach,lake	2023-11-29T20:38:27.496228
+PKG0044	Kaghan Valley	Khyber Pakhtunkhwa	35.726968	72.750348	Religious	7	10068	11038	15999	Air	Camping	4.2	305	0.55	Autumn	Easy	Karachi	mountains,heritage,family	2024-03-02T20:38:27.496250
+PKG0045	Ranikot Fort Valley	Islamabad Capital	34.095242	71.771664	Nature	8	20111	21856	25653	Train	Luxury Resort	4.6	1105	0.54	Winter	Moderate	Karachi	wildlife,mountains,luxury	2023-10-11T20:38:27.496407
+PKG0046	Quetta	Gilgit-Baltistan	35.002207	72.047961	Historical	5	1329	4189	5018	Air	4-star	4.9	1062	2.0	Winter	Moderate	Islamabad	wildlife,luxury,photography	2024-06-16T20:38:27.496449
+PKG0047	Taxila Museum	Balochistan	28.087766	64.99985	Nature	3	16671	18521	22393	Private Van	3-star	5.0	820	0.19	All Year	Easy	Rawalpindi	lake,budget,family	2024-12-05T20:38:27.496485
+PKG0048	Hingol National Park	Islamabad Capital	33.10505	73.127578	Historical	10	3647	6039	9924	Road	Guesthouse	4.7	1061	0.41	Autumn	Hard	Gwadar	beach,photography,food	2023-09-15T20:38:27.496512
+PKG0049	Shangrila Resort, Skardu	Sindh	25.102337	66.286079	Beach	8	7112	9597	11091	Road	Camping	3.9	490	2.26	Summer	Moderate	Hunza	mountains,culture,luxury	2025-07-29T20:38:27.496534
+PKG0050	Khewra Crystal Caves	Islamabad Capital	36.157579	72.808687	Nature	3	12513	15054	17944	Hike	Camping	4.0	559	0.51	Winter	Moderate	Rawalpindi	trek,beach,culture	2025-06-06T20:38:27.496556
+PKG0051	Sarhad	Sindh	29.031209	68.549445	Adventure	2	6995	8626	12525	Train	Luxury Resort	4.4	547	2.35	Spring	Moderate	Murree	family,wildlife,hiking	2023-12-27T20:38:27.496579
+PKG0052	Gwadar Beaches	Islamabad Capital	31.571573	73.271483	City	6	9963	12723	17674	Private Van	4-star	4.1	659	0.3	Summer	Hard	Peshawar	wildlife,luxury,trek	2023-08-30T20:38:27.496601
+PKG0053	Hiran Minar	Punjab	29.909058	71.837858	Trekking	7	9177	10300	14857	Road	Guesthouse	4.0	1028	5.17	All Year	Moderate		lake,beach,food	2024-05-12T20:38:27.496623
+PKG0054	Dir	Punjab	32.334663	71.459872	Adventure	2	10436	12859	15530	Train	Luxury Resort	4.5	814	2.16	Spring	Moderate		photography,culture,luxury	2024-12-12T20:38:27.496654
+PKG0055	Sarhad Park	Azad Kashmir	36.824632	73.627685	Historical	2	8903	10364	13218	Air	Camping	4.9	185	1.51	Winter	Easy	Gwadar	photography,hiking,lake	2024-08-04T20:38:27.496686
+PKG0056	Bumburet Valley	Azad Kashmir	33.296796	70.873683	City	1	5352	7053	10489	Train	4-star	4.1	298	4.55	Summer	Hard	Sialkot	wildlife,photography,heritage	2025-05-11T20:38:27.496712
+PKG0057	Ratti Gali Lake	Punjab	31.656951	71.295266	Religious	8	7671	10559	12231	Air	4-star	4.6	520	0.83	Winter	Moderate	Gilgit	mountains,beach,family	2023-12-09T20:38:27.496734
+PKG0058	Kotli Heritage Site	Sindh	23.943171	71.171414	Beach	7	15272	16796	21038	Train	Guesthouse	3.8	787	4.55	Winter	Easy	Peshawar	luxury,wildlife,budget	2024-03-23T20:38:27.496756
+PKG0059	Nankana Sahib	Azad Kashmir	33.271385	76.567667	Trekking	5	15969	16502	17403	Hike	Camping	4.4	1017	2.05	Autumn	Easy	Skardu	food,budget,trek	2024-01-20T20:38:27.496778
+PKG0060	Ayubia National Park	Gilgit-Baltistan	35.003761	76.033464	Adventure	2	15696	16357	19387	Private Van	Budget Hotel	4.6	1186	0.1	Autumn	Hard	Islamabad	lake,family,budget	2023-09-28T20:38:27.496801
+PKG0061	Noorpur Shahan	Sindh	24.704769	70.219077	City	10	8203	10758	13490	Air	3-star	3.8	986	0.1	Autumn	Hard		budget,lake,beach	2025-08-16T20:38:27.496824
+PKG0062	Clifton Beach, Karachi	Islamabad Capital	36.479001	75.200844	Trekking	10	14050	16048	17287	Private Van	Budget Hotel	3.6	541	2.35	All Year	Easy	Rawalpindi	budget,photography,hiking	2025-02-06T20:38:27.496850
+PKG0063	Neelum Valley Fort	Balochistan	30.934504	68.641751	Nature	4	5421	7852	8557	Hike	Luxury Resort	4.5	671	2.49	All Year	Easy	Gilgit	lake,photography,beach	2023-11-15T20:38:27.496887
+PKG0064	Hiran Minar	Azad Kashmir	33.949775	71.538662	Historical	5	1975	4492	5943	Road	Guesthouse	3.6	1100	2.74	Summer	Moderate	Rawalpindi	budget,photography,culture	2024-08-29T20:38:27.496916
+PKG0065	Hiran Minar Park	Azad Kashmir	35.859595	76.012483	Nature	8	18609	20780	23571	Road	Camping	4.4	758	2.14	Summer	Moderate	Rawalpindi	trek,budget,lake	2023-11-30T20:38:27.496940
+PKG0066	Srinagar (historical list)	Gilgit-Baltistan	38.910177	75.368961	Historical	7	2164	3794	5848	Road	4-star	4.3	187	0.92	Summer	Hard	Gilgit	wildlife,mountains,hiking	2024-11-25T20:38:27.496962
+PKG0067	Rawalakot	Sindh	28.221869	66.731233	Religious	4	2208	3662	6853	Air	Luxury Resort	3.8	5	7.22	Autumn	Easy	Islamabad	culture,family,heritage	2025-07-12T20:38:27.496985
+PKG0068	Bagh Falls	Islamabad Capital	30.834681	70.129162	Religious	6	13708	14272	16199	Train	Budget Hotel	4.1	259	1.99	Winter	Hard	Karachi	hiking,lake,beach	2024-07-30T20:38:27.497007
+PKG0069	Sialkot Park	Khyber Pakhtunkhwa	34.079428	69.654324	Religious	1	6443	9078	12048	Private Van	Camping	4.9	63	1.72	Spring	Moderate		luxury,food,photography	2025-07-14T20:38:27.497032
+PKG0070	Gwadar Beaches	Azad Kashmir	36.958205	71.140944	Nature	6	3570	6561	8276	Road	Guesthouse	4.2	563	2.56	All Year	Hard	Skardu	culture,hiking,budget	2024-10-07T20:38:27.497054
+PKG0071	Gurez Valley Resort	Gilgit-Baltistan	35.269386	74.533306	Trekking	2	7606	8574	10835	Private Van	4-star	4.4	467	5.64	Winter	Moderate		beach,luxury,hiking	2023-10-16T20:38:27.497089
+PKG0072	Rohtas Fort	Khyber Pakhtunkhwa	33.560584	72.990647	City	3	5813	8255	9304	Road	Budget Hotel	4.6	190	6.8	Winter	Easy	Murree	hiking,budget,heritage	2024-04-11T20:38:27.497115
+PKG0073	Katpana Desert, Skardu	Gilgit-Baltistan	39.239748	74.8701	Nature	7	7971	9919	13883	Road	3-star	3.4	639	3.81	Autumn	Easy	Skardu	culture,trek,heritage	2023-12-30T20:38:27.497138
+PKG0074	Dadu	Sindh	28.583649	67.600684	City	2	1802	3443	5795	Private Van	Luxury Resort	3.9	1140	1.63	Spring	Hard	Gilgit	hiking,family,mountains	2025-05-01T20:38:27.497162
+PKG0075	Hyderabad (Sindh)	Azad Kashmir	36.074457	76.229225	City	1	8796	10039	11712	Hike	Camping	4.4	820	1.69	Spring	Easy	Murree	photography,mountains,lake	2023-09-29T20:38:27.497199
+PKG0076	Makli Necropolis Heritage Site	Sindh	25.757166	68.221875	Adventure	6	14609	16385	19542	Hike	Luxury Resort	3.8	173	9.22	Spring	Easy	Islamabad	food,wildlife,mountains	2023-12-12T20:38:27.497221
+PKG0077	Murree	Khyber Pakhtunkhwa	33.658678	71.544089	Cultural	7	7731	9349	11614	Hike	Budget Hotel	3.6	706	4.2	Winter	Easy	Quetta	photography,food,wildlife	2024-06-21T20:38:27.497242
+PKG0078	Minar-e-Pakistan Falls	Azad Kashmir	33.350516	72.023111	Historical	1	12897	14234	17203	Air	Guesthouse	4.7	523	2.42	Autumn	Moderate	Karachi	mountains,beach,luxury	2025-05-06T20:38:27.497264
+PKG0079	Gwadar	Balochistan	29.195494	64.380664	City	2	500	1000	1846	Private Van	Budget Hotel	3.7	941	3.31	Spring	Moderate	Skardu	luxury,wildlife,food	2023-11-06T20:38:27.497286
+PKG0080	Badin Falls	Balochistan	27.737091	65.430194	City	3	8442	10826	14290	Road	4-star	4.3	216	4.89	Summer	Moderate	Skardu	luxury,culture,lake	2024-09-22T20:38:27.497308
+PKG0081	Gwadar Port	Azad Kashmir	33.53708	72.698412	Adventure	2	15500	18090	19524	Hike	Luxury Resort	5.0	397	3.2	Autumn	Moderate	Murree	photography,heritage,trek	2025-07-19T20:38:27.497330
+PKG0082	Quaid-e-Azam's Mausoleum, Karachi	Khyber Pakhtunkhwa	32.183631	72.614394	Nature	3	20462	22985	27285	Hike	Luxury Resort	4.7	919	3.18	All Year	Hard	Gilgit	wildlife,budget,photography	2024-12-13T20:38:27.497355
+PKG0083	Frere Hall, Karachi	Balochistan	26.409718	65.653248	Beach	5	4186	7108	8068	Train	Luxury Resort	4.6	151	0.94	Autumn	Moderate	Rawalpindi	mountains,food,budget	2025-01-12T20:38:27.497376
+PKG0084	Rama Meadow	Azad Kashmir	36.6855	75.83176	Trekking	8	13113	15990	16826	Private Van	Luxury Resort	3.8	385	0.1	Autumn	Hard	Rawalpindi	culture,heritage,mountains	2024-07-28T20:38:27.497401
+PKG0085	Mohenjo-daro	Islamabad Capital	36.074761	72.100627	Nature	10	27681	28887	29707	Air	Camping	3.3	896	0.68	Winter	Hard	Hunza	wildlife,heritage,budget	2024-10-16T20:38:27.497422
+PKG0086	Khyber Pass	Balochistan	28.452616	65.030203	Historical	6	5743	6512	9712	Road	Luxury Resort	4.2	791	0.1	Autumn	Moderate	Murree	photography,wildlife,heritage	2024-11-25T20:38:27.497451
+PKG0087	Murree	Gilgit-Baltistan	37.481673	77.000479	Beach	7	5140	6168	7362	Train	Luxury Resort	4.7	771	0.27	Autumn	Easy	Gilgit	hiking,food,photography	2024-05-11T20:38:27.497487
+PKG0088	Taxila Museum	Azad Kashmir	35.522736	73.750931	Historical	6	16597	18362	20338	Air	3-star	4.3	995	0.49	Summer	Easy	Islamabad	heritage,lake,family	2025-07-21T20:38:27.497510
+PKG0089	Suleman Range Heritage Site	Islamabad Capital	33.918625	74.471864	Historical	6	3581	4617	8203	Air	Guesthouse	4.3	370	0.11	All Year	Easy	Murree	beach,mountains,luxury	2024-10-24T20:38:27.497543
+PKG0090	Ormara Cliffs Trail	Azad Kashmir	32.925181	73.365192	Beach	8	21876	23334	28208	Air	3-star	5.0	960	2.03	Summer	Moderate	Gilgit	wildlife,beach,hiking	2023-09-06T20:38:27.497573
+PKG0091	Khyber Pass	Islamabad Capital	32.971235	73.204759	Adventure	4	500	2849	4482	Train	Budget Hotel	4.3	984	3.17	Autumn	Hard	Karachi	hiking,culture,lake	2025-01-14T20:38:27.497595
+PKG0092	Khewra Salt Mine	Islamabad Capital	31.641874	72.735915	Adventure	7	11458	12333	14651	Private Van	3-star	3.4	54	0.16	Winter	Easy	Sialkot	culture,budget,trek	2024-10-02T20:38:27.497617
+PKG0093	Murree	Khyber Pakhtunkhwa	32.347233	70.912109	Nature	6	16931	18029	19656	Road	3-star	4.6	967	1.05	Summer	Hard	Rawalpindi	beach,wildlife,mountains	2025-08-12T20:38:27.497640
+PKG0094	Faisal Mosque, Islamabad	Khyber Pakhtunkhwa	32.293928	69.897118	Trekking	2	11314	12994	15440	Train	Budget Hotel	4.0	97	0.58	Summer	Moderate	Gilgit	food,wildlife,beach	2025-08-29T20:38:27.497662
+PKG0095	Ranikot Fort	Islamabad Capital	36.110881	73.620434	Historical	10	16737	19592	22073	Air	3-star	4.4	879	2.16	Spring	Hard	Multan	trek,wildlife,luxury	2025-04-24T20:38:27.497685
+PKG0096	Hiran Minar Valley	Azad Kashmir	32.013684	76.547927	Nature	10	14535	17263	21919	Hike	Luxury Resort	5.0	41	1.89	Winter	Moderate	Lahore	photography,luxury,budget	2025-02-15T20:38:27.497707
+PKG0097	Ranikot Fort Valley	Punjab	30.142563	69.405357	Religious	2	500	1000	4223	Air	Budget Hotel	4.0	721	0.88	All Year	Moderate		photography,heritage,food	2024-07-14T20:38:27.497739
+PKG0098	Skardu Shangrila Park	Balochistan	29.790415	67.868986	Nature	8	12924	13575	16478	Air	Budget Hotel	5.0	408	0.21	Spring	Moderate	Quetta	culture,luxury,food	2024-07-05T20:38:27.497768
+PKG0099	Islamabad (city)	Punjab	32.519746	70.146621	City	1	500	1000	3738	Road	3-star	3.7	894	0.38	Winter	Hard	Rawalpindi	luxury,budget,heritage	2024-06-11T20:38:27.497790
+PKG0100	Kallar Kahar Fort	Balochistan	28.204082	67.783745	Beach	2	500	1000	2146	Private Van	Luxury Resort	3.5	369	1.91	All Year	Moderate	Multan	lake,food,budget	2023-12-26T20:38:27.497812
+PKG0101	Nankana Sahib	Khyber Pakhtunkhwa	33.675495	73.305977	Adventure	8	10420	12359	16521	Road	Camping	4.3	722	0.94	All Year	Moderate	Quetta	photography,mountains,lake	2023-12-15T20:38:27.497834
+PKG0102	Badin Falls	Balochistan	28.179867	67.806576	Adventure	1	14267	15351	19440	Road	Guesthouse	5.0	137	3.88	Summer	Hard	Multan	budget,luxury,wildlife	2025-09-29T20:38:27.497857
+PKG0103	Lasbela Lake	Sindh	27.574372	71.192941	City	8	2296	3110	4737	Hike	3-star	4.4	815	0.15	Autumn	Hard	Quetta	trek,lake,mountains	2023-10-10T20:38:27.497879
+PKG0104	Nathia Gali	Balochistan	29.106472	68.481255	Nature	5	12219	13785	17940	Air	Luxury Resort	4.2	584	1.76	Winter	Easy	Karachi	heritage,lake,beach	2025-05-09T20:38:27.497900
+PKG0105	Makli Necropolis Resort	Balochistan	31.983574	67.863079	City	6	8916	9681	14622	Train	3-star	4.5	322	0.98	Summer	Moderate	Hunza	trek,lake,food	2025-06-12T20:38:27.497924
+PKG0106	Balakot	Islamabad Capital	33.644132	72.205379	City	8	2550	5309	6872	Hike	Budget Hotel	5.0	134	1.58	Autumn	Moderate	Murree	hiking,beach,culture	2024-09-07T20:38:27.497962
+PKG0107	Hujra Shah Muqeem Falls	Balochistan	30.940036	63.442504	City	2	5746	8089	12405	Hike	3-star	4.5	262	6.5	All Year	Hard	Skardu	heritage,food,luxury	2024-06-05T20:38:27.497993
+PKG0108	Deosai National Park	Islamabad Capital	31.424967	70.958093	Adventure	3	10260	12081	14428	Train	Luxury Resort	4.3	581	0.77	Spring	Moderate	Peshawar	photography,culture,family	2025-06-26T20:38:27.498016
+PKG0109	Sarhad Park	Khyber Pakhtunkhwa	34.68657	69.56057	Adventure	3	10262	11463	14728	Hike	Budget Hotel	4.6	58	0.25	Spring	Easy	Gilgit	food,wildlife,family	2024-01-05T20:38:27.498049
+PKG0110	Kotli	Islamabad Capital	34.112823	73.748651	Historical	8	11978	14712	17584	Train	4-star	4.9	501	4.2	Winter	Moderate	Rawalpindi	lake,hiking,mountains	2025-05-24T20:38:27.498072
+PKG0111	Makran Coastal Highway	Balochistan	28.905507	64.224138	Adventure	6	18070	19877	23206	Private Van	Guesthouse	4.5	758	0.66	All Year	Hard	Karachi	budget,trek,beach	2025-06-29T20:38:27.498094
+PKG0112	Sukkur	Balochistan	27.487513	63.58087	Beach	7	10098	12310	14843	Air	3-star	3.8	1183	3.29	Autumn	Easy	Gwadar	heritage,beach,culture	2024-07-11T20:38:27.498117
+PKG0113	Kalat Falls	Khyber Pakhtunkhwa	33.984222	69.540295	Trekking	10	12502	14874	17346	Air	Luxury Resort	4.3	722	0.93	Spring	Easy	Quetta	beach,wildlife,photography	2023-12-14T20:38:27.498142
+PKG0114	Mithi	Khyber Pakhtunkhwa	34.220144	74.083034	Trekking	3	9401	10984	14480	Private Van	3-star	4.8	92	5.34	Winter	Easy	Skardu	culture,trek,budget	2024-04-14T20:38:27.498177
+PKG0115	Sadiqabad	Punjab	30.318093	71.702126	Beach	2	6666	7693	8985	Private Van	3-star	4.7	694	2.78	All Year	Moderate	Gwadar	heritage,trek,wildlife	2024-05-29T20:38:27.498200
+PKG0116	Soon Valley	Gilgit-Baltistan	33.741529	71.733484	City	8	3925	6552	10795	Air	Luxury Resort	4.3	1055	4.66	Summer	Moderate	Skardu	budget,heritage,luxury	2024-02-09T20:38:27.498222
+PKG0117	Murree Mall Road Point	Islamabad Capital	32.475406	72.058241	Cultural	5	14387	16832	17468	Train	3-star	4.2	224	0.77	Winter	Hard	Quetta	food,hiking,photography	2025-10-05T20:38:27.498244
+PKG0118	Gurez Valley Resort	Balochistan	27.593183	66.933546	Religious	1	4674	7564	11999	Air	Luxury Resort	4.6	778	0.1	Summer	Hard	Peshawar	mountains,wildlife,lake	2025-04-20T20:38:27.498268
+PKG0119	Faisal Mosque, Islamabad	Balochistan	27.882155	63.908588	Religious	7	8389	10944	15307	Road	Camping	4.1	282	6.02	All Year	Easy	Hunza	budget,photography,beach	2024-05-12T20:38:27.498290
+PKG0120	Mahodand Lake	Khyber Pakhtunkhwa	36.740113	71.757981	City	10	18522	20473	23138	Hike	4-star	4.7	393	1.19	Summer	Moderate	Hunza	family,trek,food	2023-09-04T20:38:27.498312
+PKG0121	Sadiqabad	Azad Kashmir	32.743667	74.92993	City	8	1035	2963	5703	Train	Budget Hotel	3.6	1174	2.23	All Year	Moderate	Sialkot	budget,heritage,family	2025-09-19T20:38:27.498335
+PKG0122	Sadiqabad	Azad Kashmir	31.974177	76.244058	Beach	8	12248	13624	15779	Hike	3-star	4.5	1151	3.12	Autumn	Easy	Karachi	wildlife,hiking,food	2025-03-01T20:38:27.498358
+PKG0123	Rawalakot	Punjab	32.019004	72.186249	Religious	1	8016	8926	12811	Train	Camping	3.8	967	0.12	Spring	Hard	Gwadar	heritage,mountains,culture	2025-05-24T20:38:27.498380
+PKG0124	Rohtas	Azad Kashmir	37.110193	75.970398	Cultural	4	500	1000	4131	Train	Camping	5.0	121	4.37	Spring	Hard	Skardu	trek,culture,mountains	2025-05-06T20:38:27.498402
+PKG0125	Noorpur Shahan	Islamabad Capital	31.734732	75.557809	Trekking	8	8784	10047	12918	Road	Budget Hotel	4.0	611	0.31	All Year	Hard	Karachi	budget,family,beach	2024-01-15T20:38:27.498424
+PKG0126	Kotli Heritage Site	Gilgit-Baltistan	36.463475	77.131363	Cultural	5	11394	12683	14105	Train	Guesthouse	4.9	939	0.21	Autumn	Hard	Islamabad	mountains,hiking,budget	2025-01-03T20:38:27.498446
+PKG0127	Rama Meadow Heritage Site	Azad Kashmir	36.043697	71.752969	Trekking	7	13859	16469	19655	Road	4-star	3.9	195	0.15	Summer	Easy	Rawalpindi	budget,trek,mountains	2025-02-07T20:38:27.498467
+PKG0128	Sarhad	Sindh	26.180413	67.101966	City	5	9469	12354	12947	Train	Camping	4.6	736	0.17	Summer	Easy	Gilgit	lake,beach,family	2025-05-22T20:38:27.498493
+PKG0129	Kallar Kahar	Azad Kashmir	34.515123	76.07071	Beach	2	500	1000	4510	Hike	Guesthouse	3.5	448	3.35	Summer	Moderate	Islamabad	beach,hiking,wildlife	2024-10-15T20:38:27.498521
+PKG0130	Noorpur Shahan	Azad Kashmir	34.795407	73.524968	Religious	4	2074	5014	6184	Hike	4-star	4.9	1081	0.17	Autumn	Easy	Skardu	lake,mountains,culture	2024-06-02T20:38:27.498551
+PKG0131	Skardu Shangrila	Gilgit-Baltistan	36.719961	72.487223	Cultural	2	9524	10865	15369	Road	Luxury Resort	4.9	912	1.1	Spring	Moderate	Islamabad	culture,luxury,beach	2024-04-03T20:38:27.498573
+PKG0132	Deosai National Park	Gilgit-Baltistan	36.27427	76.341492	Historical	7	5644	7186	7710	Air	Luxury Resort	4.2	149	1.26	Spring	Moderate	Multan	hiking,lake,culture	2025-09-01T20:38:27.498595
+PKG0133	Nanga Parbat Base Camp	Balochistan	26.190409	65.453202	Adventure	7	14903	16936	20569	Private Van	4-star	3.8	769	2.74	Spring	Hard	Gilgit	culture,heritage,photography	2024-11-10T20:38:27.498632
+PKG0134	Kirthar National Park	Sindh	29.457081	67.858352	Adventure	4	17442	17956	18642	Train	4-star	4.2	1115	0.94	Winter	Hard	Sialkot	trek,food,beach	2024-11-12T20:38:27.498660
+PKG0135	Haji Camp, Karachi	Khyber Pakhtunkhwa	32.130883	74.251249	Nature	1	16923	19140	19768	Air	Guesthouse	4.0	137	0.51	Spring	Hard	Lahore	beach,wildlife,photography	2023-11-12T20:38:27.498683
+PKG0136	Skardu Valley	Sindh	27.943246	67.913592	Religious	10	8028	9417	10379	Air	Luxury Resort	4.7	592	9.91	Summer	Hard	Skardu	budget,wildlife,hiking	2023-09-02T20:38:27.498705
+PKG0137	Murree Resort	Islamabad Capital	32.603991	71.850587	Adventure	10	14181	15586	19473	Train	3-star	3.8	124	6.97	All Year	Hard	Murree	heritage,photography,hiking	2024-08-21T20:38:27.498727
+PKG0138	Malakand Pass Valley	Balochistan	26.281305	65.066489	Trekking	10	26849	28654	32564	Private Van	Guesthouse	4.4	614	2.38	Winter	Easy	Gwadar	culture,beach,trek	2025-03-16T20:38:27.498749
+PKG0139	Hujra Shah Muqeem	Islamabad Capital	34.925461	74.874657	Historical	10	19729	21919	25831	Hike	Luxury Resort	3.8	274	1.76	Winter	Easy	Quetta	trek,budget,photography	2025-08-13T20:38:27.498770
+PKG0140	Shangla	Islamabad Capital	32.906465	73.253813	Religious	1	6735	8334	11923	Hike	Luxury Resort	4.7	80	1.94	Spring	Easy	Gwadar	food,wildlife,photography	2024-04-08T20:38:27.498809
+PKG0141	Pakistan Monument, Islamabad	Balochistan	27.253335	68.442197	Beach	1	2594	3961	6017	Road	Camping	3.9	980	1.25	Summer	Hard	Skardu	hiking,trek,luxury	2025-03-01T20:38:27.498848
+PKG0142	Sandspit Beach Viewpoint	Khyber Pakhtunkhwa	35.653083	71.28397	City	5	13624	15195	18641	Hike	4-star	3.3	954	0.16	Spring	Hard	Rawalpindi	food,budget,trek	2024-10-18T20:38:27.498871
+PKG0143	Ziarat	Balochistan	26.274293	68.184509	Adventure	1	15482	17050	20970	Train	Guesthouse	5.0	401	0.74	Autumn	Easy	Sialkot	wildlife,trek,beach	2024-04-17T20:38:27.498893
+PKG0144	Neelum Valley Heritage Site	Azad Kashmir	33.525386	75.280164	Cultural	8	10041	12428	14306	Train	Guesthouse	4.7	286	0.35	All Year	Moderate	Islamabad	culture,photography,mountains	2024-05-14T20:38:27.498925
+PKG0145	Karimabad, Hunza	Islamabad Capital	35.760184	75.711129	Historical	1	500	1078	2704	Air	Budget Hotel	5.0	309	5.4	Spring	Easy	Hunza	beach,budget,mountains	2024-02-08T20:38:27.498946
+PKG0146	Badin Falls	Azad Kashmir	37.103422	76.176509	Cultural	1	8031	8558	13417	Hike	4-star	4.1	24	3.33	Spring	Hard	Murree	family,culture,food	2025-10-15T20:38:27.498968
+PKG0147	Minar-e-Pakistan Park	Islamabad Capital	34.867154	72.623439	Adventure	2	3827	4721	9516	Air	Guesthouse	4.9	393	7.01	All Year	Hard	Quetta	budget,family,luxury	2025-08-13T20:38:27.498990
+PKG0148	Swat Valley	Balochistan	28.753986	64.459247	Religious	5	9823	10653	11412	Road	4-star	4.3	776	1.26	Winter	Hard	Rawalpindi	mountains,photography,food	2023-11-13T20:38:27.499023
+PKG0149	Ayun Valley	Punjab	30.99915	71.603458	City	2	500	1000	1848	Air	Guesthouse	3.9	1160	0.12	Winter	Moderate	Lahore	lake,photography,family	2024-04-24T20:38:27.499056
+PKG0150	Ayun Valley Park	Azad Kashmir	31.697411	76.272598	City	1	9208	10556	12237	Private Van	Budget Hotel	4.4	612	10.0	Summer	Hard	Peshawar	wildlife,luxury,photography	2024-04-27T20:38:27.499088
+PKG0151	Ziarat Juniper Forest	Balochistan	30.533656	63.839704	Nature	10	13115	15031	15970	Road	4-star	4.2	475	2.93	Spring	Moderate	Skardu	food,wildlife,hiking	2024-09-21T20:38:27.499111
+PKG0152	Hujra Shah Muqeem Resort	Khyber Pakhtunkhwa	31.177754	70.639962	Cultural	8	5687	7121	10535	Hike	4-star	3.4	884	0.28	Summer	Hard	Skardu	photography,luxury,lake	2023-09-03T20:38:27.499136
+PKG0153	Kotli Falls	Khyber Pakhtunkhwa	35.788331	73.278651	Nature	5	14590	15721	19333	Air	Camping	4.5	797	0.52	Autumn	Moderate	Karachi	lake,mountains,family	2024-08-03T20:38:27.499158
+PKG0154	Neelam Valley (alternate)	Islamabad Capital	32.298599	70.835042	Adventure	7	19024	21362	26059	Private Van	Budget Hotel	5.0	53	0.89	Spring	Moderate	Hunza	lake,wildlife,hiking	2024-12-04T20:38:27.499180
+PKG0155	Sarhad	Punjab	29.751084	71.326797	Nature	10	15499	16993	21761	Air	Camping	3.8	779	1.47	Summer	Easy	Quetta	family,food,beach	2025-06-05T20:38:27.499202
+PKG0156	Fairy Meadows	Sindh	26.108058	68.026614	Cultural	2	7710	9689	12250	Air	Camping	5.0	1015	3.82	All Year	Hard	Peshawar	beach,lake,heritage	2024-12-25T20:38:27.499231
+PKG0157	Shalimar Gardens, Lahore	Balochistan	27.993303	66.721153	City	8	19493	21364	25391	Hike	Guesthouse	5.0	615	4.19	Autumn	Hard	Murree	trek,beach,budget	2025-05-04T20:38:27.499262
+PKG0158	Sakesar	Khyber Pakhtunkhwa	32.748689	73.169747	Cultural	4	1043	2877	6457	Train	4-star	4.1	747	0.1	Spring	Hard	Peshawar	wildlife,culture,heritage	2023-12-04T20:38:27.499297
+PKG0159	Hujra Shah Muqeem Falls	Gilgit-Baltistan	33.661497	75.86328	Religious	8	11179	12872	13938	Private Van	Camping	4.9	1022	2.44	Summer	Hard	Quetta	trek,family,photography	2025-05-28T20:38:27.499321
+PKG0160	Kumrat Valley Resort	Balochistan	30.734461	63.443791	Cultural	7	3710	6398	11048	Private Van	Luxury Resort	4.0	75	0.1	Autumn	Hard	Gwadar	culture,wildlife,photography	2025-08-06T20:38:27.499343
+PKG0161	Makli Necropolis	Islamabad Capital	32.169386	74.028163	Adventure	1	18544	21350	25123	Train	4-star	3.3	216	1.0	Spring	Easy	Quetta	trek,culture,hiking	2024-04-09T20:38:27.499366
+PKG0162	Ayubia National Park Falls	Azad Kashmir	34.951412	73.374671	Trekking	8	17406	20316	24915	Air	3-star	4.1	50	0.86	Winter	Easy	Quetta	luxury,lake,hiking	2023-10-16T20:38:27.499388
+PKG0163	Clifton Beach, Karachi	Khyber Pakhtunkhwa	32.871342	71.731996	Religious	10	15536	18014	21367	Private Van	Budget Hotel	4.2	897	1.01	Winter	Moderate	Karachi	family,mountains,lake	2025-10-09T20:38:27.499410
+PKG0164	Marine Drive, Karachi	Azad Kashmir	32.156176	75.500301	Religious	10	13675	14889	16700	Train	Luxury Resort	4.4	873	5.97	Winter	Easy	Gwadar	luxury,photography,heritage	2025-04-25T20:38:27.499432
+PKG0165	Badin Falls	Azad Kashmir	34.092807	70.875154	Religious	8	500	1000	5018	Private Van	Budget Hotel	4.2	439	1.23	Summer	Moderate	Gwadar	hiking,lake,wildlife	2025-07-20T20:38:27.499455
+PKG0166	Minar-e-Pakistan Trail	Sindh	25.694758	66.682446	Nature	5	12458	14962	19785	Train	Luxury Resort	4.4	795	0.8	All Year	Moderate	Skardu	lake,budget,hiking	2024-07-21T20:38:27.499477
+PKG0167	Kotli Falls	Sindh	28.38243	69.73593	Beach	2	500	1173	4238	Road	Guesthouse	4.5	625	0.16	Spring	Easy	Multan	hiking,heritage,culture	2024-09-30T20:38:27.499499
+PKG0168	Larkana	Gilgit-Baltistan	34.327204	73.80226	Adventure	8	5691	8392	10311	Hike	Guesthouse	4.4	1002	0.85	Autumn	Easy	Islamabad	budget,beach,wildlife	2025-09-08T20:38:27.499520
+PKG0169	Muzaffarabad	Punjab	30.907654	70.170771	Trekking	10	12053	14623	19177	Private Van	Camping	4.7	1007	2.2	Winter	Hard		beach,food,heritage	2025-08-09T20:38:27.499550
+PKG0170	Ayun Valley Park	Punjab	32.775285	70.323177	Historical	5	4899	6319	11223	Train	Guesthouse	4.0	936	0.1	All Year	Hard	Gwadar	food,beach,culture	2024-05-27T20:38:27.499571
+PKG0171	Ranikot Fort	Gilgit-Baltistan	34.18524	76.150678	City	10	5148	5818	9933	Hike	Guesthouse	3.8	870	0.39	Spring	Hard		photography,trek,family	2025-09-29T20:38:27.499594
+PKG0172	Shangla	Khyber Pakhtunkhwa	33.091462	73.900372	Cultural	2	500	1000	3219	Hike	Camping	4.1	718	0.91	All Year	Hard	Sialkot	heritage,wildlife,food	2025-04-04T20:38:27.499643
+PKG0173	Gorakh Hill Station	Islamabad Capital	31.036147	72.144893	Beach	10	19599	20788	23939	Train	3-star	4.2	1172	0.1	Autumn	Hard	Gilgit	lake,heritage,luxury	2025-09-02T20:38:27.499667
+PKG0174	Peshawar	Islamabad Capital	34.615378	74.248559	Adventure	4	16988	18087	21225	Air	Camping	4.8	804	0.17	Winter	Easy	Skardu	photography,family,food	2024-09-03T20:38:27.499704
+PKG0175	Mahodand Lake	Balochistan	26.453098	67.767592	Nature	7	11715	14326	17105	Train	4-star	4.1	999	3.28	Autumn	Hard	Lahore	food,hiking,lake	2023-10-15T20:38:27.499732
+PKG0176	Upper Dir	Azad Kashmir	35.484863	72.849336	Nature	10	8452	10581	12865	Private Van	Guesthouse	4.5	1013	0.47	Autumn	Moderate		family,budget,culture	2024-03-20T20:38:27.499754
+PKG0177	Gwadar	Gilgit-Baltistan	38.614535	76.229822	Historical	1	6442	7349	11613	Road	Budget Hotel	3.0	323	1.93	Winter	Moderate	Lahore	luxury,trek,heritage	2024-01-06T20:38:27.499777
+PKG0178	Hiran Minar	Sindh	28.74654	70.75957	Nature	6	9715	11240	12415	Train	Camping	3.1	338	2.75	Spring	Moderate	Gilgit	family,hiking,trek	2024-08-19T20:38:27.499799
+PKG0179	Neelum Valley Heritage Site	Punjab	32.222188	69.006518	Cultural	2	11416	12459	14811	Hike	Camping	4.4	911	1.43	Spring	Easy	Murree	budget,lake,luxury	2023-11-22T20:38:27.499820
+PKG0180	Gwadar	Balochistan	26.42497	65.29842	Nature	2	7383	9166	12677	Train	Guesthouse	4.2	783	1.19	Summer	Hard	Gilgit	heritage,lake,culture	2024-04-04T20:38:27.499842
+PKG0181	Lahore Fort	Gilgit-Baltistan	37.400121	74.140597	Religious	3	500	1000	5124	Air	Budget Hotel	4.3	205	0.63	Summer	Easy	Skardu	hiking,luxury,budget	2024-08-19T20:38:27.499863
+PKG0182	Ziarat	Islamabad Capital	31.518981	71.701806	Nature	4	11112	13878	16712	Road	Camping	4.2	617	0.78	Summer	Hard	Skardu	culture,trek,luxury	2025-01-03T20:38:27.499894
+PKG0183	Mansehra Fort	Punjab	32.70281	73.762668	Religious	8	3040	5120	6543	Air	4-star	3.7	145	0.26	All Year	Easy	Multan	budget,heritage,luxury	2024-03-29T20:38:27.499925
+PKG0184	Larkana	Khyber Pakhtunkhwa	34.278137	70.036622	Cultural	2	9741	10309	11362	Road	3-star	4.7	441	2.27	Spring	Easy	Gwadar	luxury,culture,family	2024-01-28T20:38:27.499947
+PKG0185	Makli Necropolis Resort	Gilgit-Baltistan	38.10266	74.041451	Trekking	2	12255	14952	19856	Hike	Guesthouse	4.9	568	0.18	Spring	Moderate	Karachi	culture,trek,heritage	2024-05-01T20:38:27.499969
+PKG0186	Hinglaj Mata Temple area	Balochistan	29.518623	67.579345	Nature	5	26954	29245	31699	Road	Guesthouse	4.7	176	2.74	Winter	Easy	Rawalpindi	wildlife,food,mountains	2024-12-20T20:38:27.499991
+PKG0187	Hiran Minar Valley	Azad Kashmir	35.448314	71.753875	Historical	3	2230	2776	4618	Private Van	3-star	4.1	1071	0.67	All Year	Hard	Quetta	heritage,budget,food	2023-09-26T20:38:27.500012
+PKG0188	Sialkot Park	Islamabad Capital	32.292587	75.358489	Historical	6	15116	17374	20102	Hike	Budget Hotel	3.5	538	1.69	All Year	Hard	Karachi	beach,food,culture	2024-10-29T20:38:27.500035
+PKG0189	Deosai National Park	Balochistan	31.156159	64.001288	Adventure	5	5687	6608	8052	Air	Camping	4.5	1042	0.21	Spring	Easy		mountains,trek,food	2024-07-06T20:38:27.500057
+PKG0190	Gurez Valley	Balochistan	31.521359	64.073766	Historical	10	4034	6251	8590	Train	Guesthouse	3.9	852	0.35	Autumn	Moderate		lake,wildlife,budget	2025-07-02T20:38:27.500080
+PKG0191	Minar-e-Pakistan Park	Azad Kashmir	36.911646	71.776066	Historical	7	4663	5445	9755	Train	3-star	3.8	670	0.38	Spring	Hard	Rawalpindi	mountains,budget,trek	2025-01-07T20:38:27.500120
+PKG0192	Ayun Valley Park	Islamabad Capital	32.503456	73.776305	Cultural	6	500	1000	5541	Air	Camping	4.5	1119	8.08	Summer	Easy	Lahore	luxury,mountains,trek	2024-04-26T20:38:27.500154
+PKG0193	Korangi Creek	Azad Kashmir	36.537444	75.963192	City	1	5525	7566	10585	Road	Guesthouse	3.7	1085	6.98	Summer	Moderate	Rawalpindi	mountains,heritage,family	2025-07-29T20:38:27.500177
+PKG0194	Passu Cones, Hunza	Sindh	28.883725	68.618555	City	8	9576	10423	11705	Hike	Guesthouse	4.3	807	0.6	Spring	Hard	Skardu	mountains,luxury,photography	2025-06-21T20:38:27.500207
+PKG0195	Balakot	Khyber Pakhtunkhwa	32.565946	70.890053	Trekking	6	16203	18005	22213	Train	Guesthouse	3.7	152	5.3	Summer	Easy	Gwadar	food,wildlife,lake	2025-05-26T20:38:27.500233
+PKG0196	Makli Necropolis	Sindh	26.1974	67.3842	Nature	10	25292	27259	29459	Private Van	3-star	5.0	948	0.66	Autumn	Easy	Karachi	heritage,photography,family	2023-11-11T20:38:27.500255
+PKG0197	Skardu Shangrila Park	Gilgit-Baltistan	33.741979	76.515549	City	3	4151	5024	7557	Train	4-star	4.5	1051	0.78	Spring	Hard	Quetta	family,heritage,mountains	2024-09-13T20:38:27.500285
+PKG0198	Shangla	Gilgit-Baltistan	37.988471	72.999116	Cultural	2	9606	10678	12172	Road	Budget Hotel	2.8	455	0.56	Summer	Easy		luxury,budget,photography	2024-01-26T20:38:27.500318
+PKG0199	Mansehra Fort	Punjab	31.493943	70.552924	Nature	1	15794	16558	18677	Private Van	Guesthouse	3.7	188	0.68	Autumn	Easy	Lahore	beach,mountains,heritage	2024-03-24T20:38:27.500346
+PKG0200	Badin	Islamabad Capital	35.026585	73.016758	Trekking	7	6958	8165	11564	Air	Guesthouse	4.3	563	1.31	Autumn	Moderate	Islamabad	mountains,wildlife,hiking	2024-02-09T20:38:27.500368
+PKG0201	Rawalakot	Azad Kashmir	33.270631	73.171953	Cultural	1	4229	5088	7879	Private Van	Guesthouse	4.2	858	0.82	Summer	Hard	Gwadar	culture,trek,photography	2024-04-24T20:38:27.500390
+PKG0202	Faisal Mosque, Islamabad	Balochistan	30.691495	65.154673	Cultural	6	2572	5388	10003	Train	4-star	4.6	553	2.29	Summer	Easy	Multan	wildlife,trek,mountains	2023-08-27T20:38:27.500413
+PKG0203	Bala Hisar Fort, Peshawar	Punjab	32.851923	71.830106	City	4	11025	12178	13498	Air	Camping	4.9	493	1.28	Autumn	Hard		food,hiking,mountains	2023-09-11T20:38:27.500434
+PKG0204	Cholistan Desert	Gilgit-Baltistan	38.579031	76.284344	City	3	500	1000	3437	Hike	3-star	3.7	734	5.31	All Year	Easy	Murree	hiking,budget,wildlife	2024-04-03T20:38:27.500456
+PKG0205	Clifton Beach, Karachi	Gilgit-Baltistan	39.190211	76.520181	Cultural	10	9461	11226	13164	Private Van	Budget Hotel	3.9	184	5.57	Spring	Easy	Skardu	trek,mountains,culture	2024-06-30T20:38:27.500477
+PKG0206	Badshahi Mosque, Lahore	Khyber Pakhtunkhwa	36.507377	70.208786	Adventure	6	16702	17928	21078	Road	Budget Hotel	5.0	302	3.69	All Year	Hard	Islamabad	food,lake,culture	2024-10-24T20:38:27.500499
+PKG0207	Naltar Valley	Khyber Pakhtunkhwa	35.227228	72.972837	Nature	6	15289	17025	20167	Air	Guesthouse	4.0	894	0.45	Winter	Hard	Multan	heritage,hiking,culture	2023-11-22T20:38:27.500520
+PKG0208	Sadiqabad Heritage Site	Islamabad Capital	32.820953	74.03319	Adventure	7	11333	13089	16001	Air	Guesthouse	4.0	3	3.37	All Year	Moderate		food,wildlife,mountains	2025-04-29T20:38:27.500543
+PKG0209	Lasbela Lake	Khyber Pakhtunkhwa	36.526229	74.80519	Religious	2	8206	10738	12390	Train	Camping	5.0	159	0.89	Summer	Moderate	Multan	heritage,photography,lake	2023-11-07T20:38:27.500564
+PKG0210	Sukkur Heritage Site	Azad Kashmir	35.875716	72.714497	Historical	5	6020	7378	9922	Road	3-star	4.7	525	3.39	Spring	Hard	Lahore	mountains,luxury,beach	2023-10-13T20:38:27.500591
+PKG0211	Larkana	Sindh	28.807312	68.458492	Trekking	6	500	2771	6345	Road	4-star	3.7	1183	1.24	Summer	Easy	Rawalpindi	lake,mountains,family	2025-10-12T20:38:27.500613
+PKG0212	Kalat	Khyber Pakhtunkhwa	36.709973	69.445202	Adventure	7	20150	21309	22423	Hike	Budget Hotel	3.8	692	1.4	All Year	Hard	Rawalpindi	hiking,mountains,luxury	2024-01-02T20:38:27.500634
+PKG0213	Bumburet Valley	Gilgit-Baltistan	38.83852	72.442623	Nature	6	15620	16961	19017	Private Van	Camping	4.1	1134	0.97	All Year	Moderate	Gilgit	family,food,trek	2025-07-26T20:38:27.500661
+PKG0214	Skardu Valley	Balochistan	29.430619	68.039127	Adventure	1	18377	20354	20885	Private Van	Budget Hotel	4.2	603	1.96	All Year	Moderate	Peshawar	lake,mountains,trek	2025-05-11T20:38:27.500695
+PKG0215	Badin Falls	Khyber Pakhtunkhwa	36.862346	71.841424	Nature	5	4000	6128	10485	Private Van	Camping	4.8	542	0.3	Spring	Hard	Hunza	luxury,heritage,budget	2024-10-07T20:38:27.500731
+PKG0216	Srinagar (historical list)	Sindh	26.174652	67.079776	Cultural	5	10630	12056	14756	Hike	Budget Hotel	4.8	309	1.52	Spring	Easy	Gilgit	budget,culture,luxury	2023-09-19T20:38:27.500754
+PKG0217	Hiran Minar Park	Sindh	26.821611	70.544783	Trekking	10	13647	16091	18521	Private Van	3-star	4.3	161	0.33	Winter	Hard	Lahore	culture,wildlife,food	2024-03-26T20:38:27.500790
+PKG0218	Ormara Cliffs Trail	Gilgit-Baltistan	34.384686	77.195529	Cultural	3	1267	2451	4686	Air	Guesthouse	3.8	87	2.72	Winter	Easy	Gilgit	luxury,trek,photography	2025-06-03T20:38:27.500815
+PKG0219	Gurez Valley Resort	Khyber Pakhtunkhwa	32.918497	73.362618	Nature	2	13340	15429	19184	Hike	3-star	4.0	565	2.87	All Year	Moderate		mountains,hiking,wildlife	2024-03-10T20:38:27.500838
+PKG0220	Murree Mall Road Viewpoint	Islamabad Capital	33.197563	72.526654	Adventure	2	11982	12914	14241	Train	Luxury Resort	4.6	704	3.44	Winter	Moderate	Sialkot	photography,beach,wildlife	2024-02-17T20:38:27.500867
+PKG0221	Karoonjhar Hills	Punjab	29.033198	71.417844	Trekking	1	11259	13380	16595	Air	Budget Hotel	3.7	973	3.19	Autumn	Moderate	Lahore	budget,family,hiking	2025-01-18T20:38:27.500889
+PKG0222	Gwadar Beaches	Islamabad Capital	34.857097	70.629304	Religious	3	4705	6435	10564	Train	3-star	3.9	853	2.56	All Year	Hard	Karachi	trek,beach,food	2024-09-11T20:38:27.500911
+PKG0223	Murree Mall Road Point	Balochistan	30.55696	68.203134	Historical	10	13066	14217	15254	Train	Camping	4.9	1037	2.37	Winter	Easy	Gwadar	culture,wildlife,mountains	2025-05-08T20:38:27.500951
+PKG0224	Malam Jabba	Islamabad Capital	31.884361	70.385765	Historical	8	500	1000	4452	Air	3-star	4.3	754	0.85	Winter	Hard	Sialkot	photography,lake,food	2025-10-01T20:38:27.500975
+PKG0225	Abbottabad	Khyber Pakhtunkhwa	33.93272	71.676621	Cultural	10	500	1000	4320	Air	3-star	4.9	185	1.24	Autumn	Easy	Sialkot	mountains,heritage,wildlife	2023-08-26T20:38:27.500997
+PKG0226	Murree Mall Road	Islamabad Capital	32.008106	71.390672	Religious	5	7906	10083	14787	Road	Camping	5.0	18	1.89	Winter	Easy	Gilgit	heritage,wildlife,mountains	2025-03-17T20:38:27.501019
+PKG0227	Islamabad (city)	Gilgit-Baltistan	38.330513	73.332758	Beach	7	7614	9656	13012	Private Van	3-star	4.6	446	2.39	Winter	Moderate	Gilgit	culture,wildlife,luxury	2024-03-13T20:38:27.501044
+PKG0228	Mohenjo-daro	Punjab	31.069082	72.974133	City	10	7369	10301	13116	Train	Camping	4.4	221	0.33	Winter	Easy	Multan	family,photography,budget	2025-01-22T20:38:27.501075
+PKG0229	Multan	Azad Kashmir	35.766563	76.054243	Beach	4	19178	20292	25029	Air	Budget Hotel	4.9	827	1.1	Autumn	Hard	Islamabad	hiking,mountains,photography	2024-06-10T20:38:27.501098
+PKG0230	Nankana Sahib	Khyber Pakhtunkhwa	36.441469	71.427593	Historical	4	8198	10103	12424	Hike	Camping	4.3	974	5.2	Autumn	Hard	Quetta	heritage,photography,culture	2025-04-30T20:38:27.501121
+PKG0231	Nankana Sahib	Punjab	30.824685	73.445513	Adventure	6	8197	9062	11382	Train	Guesthouse	4.1	628	8.38	Winter	Moderate	Multan	family,wildlife,food	2024-07-15T20:38:27.501144
+PKG0232	Kirthar National Park	Balochistan	26.322062	66.80638	Nature	8	28936	30232	34831	Road	Camping	4.5	781	1.02	All Year	Moderate	Sialkot	mountains,heritage,hiking	2025-04-10T20:38:27.501169
+PKG0233	Marine Drive, Karachi	Balochistan	31.92315	68.357071	Cultural	3	6256	8051	10028	Road	4-star	4.0	681	3.25	Summer	Moderate	Gilgit	mountains,food,beach	2025-01-25T20:38:27.501206
+PKG0234	Kotli	Islamabad Capital	35.321254	73.497673	Adventure	8	19253	20113	21673	Hike	4-star	3.0	879	5.05	Winter	Moderate	Rawalpindi	luxury,mountains,hiking	2024-05-04T20:38:27.501238
+PKG0235	Skardu Shangrila	Azad Kashmir	33.738608	70.784463	City	10	500	1260	1906	Road	Camping	3.6	509	2.68	Summer	Hard	Multan	family,heritage,lake	2024-10-05T20:38:27.501270
+PKG0236	Minar-e-Pakistan Park	Gilgit-Baltistan	35.336691	71.891722	Historical	5	500	1000	5234	Hike	Luxury Resort	4.1	1073	1.2	Autumn	Moderate	Gilgit	heritage,budget,beach	2024-10-30T20:38:27.501292
+PKG0237	Lahore (city center) Resort	Sindh	24.489301	70.941365	Trekking	1	12090	13525	15862	Air	Guesthouse	4.1	44	1.38	All Year	Hard	Islamabad	lake,budget,photography	2025-09-24T20:38:27.501313
+PKG0238	Mahodand Lake	Azad Kashmir	33.034735	73.908401	Historical	1	12884	13826	14487	Road	Camping	4.1	237	0.9	Winter	Moderate	Sialkot	lake,culture,family	2024-07-04T20:38:27.501335
+PKG0239	Karimabad Heritage Site	Sindh	24.732969	69.61444	Historical	5	17870	20093	21420	Hike	3-star	4.8	280	0.1	Winter	Easy	Hunza	hiking,wildlife,lake	2025-01-16T20:38:27.501356
+PKG0240	Hingol National Park	Islamabad Capital	31.317582	71.23188	Religious	5	500	2896	5048	Train	Camping	4.5	839	6.49	Autumn	Easy	Lahore	culture,beach,trek	2023-11-28T20:38:27.501386
+PKG0241	Dadu	Khyber Pakhtunkhwa	32.407032	69.076496	Nature	2	10535	13386	17933	Air	Budget Hotel	3.6	1047	0.18	Spring	Hard	Murree	lake,family,photography	2025-03-10T20:38:27.501422
+PKG0242	Dir	Khyber Pakhtunkhwa	32.58475	69.300481	Adventure	1	13314	15004	18454	Train	4-star	4.3	237	1.81	Spring	Easy	Lahore	heritage,photography,hiking	2025-05-11T20:38:27.501448
+PKG0243	Ziarat Juniper Forest	Khyber Pakhtunkhwa	36.367166	74.730535	Beach	2	7057	9083	12390	Air	Budget Hotel	4.2	820	0.47	Winter	Moderate	Quetta	luxury,hiking,beach	2024-08-27T20:38:27.501470
+PKG0244	Murree Fort	Islamabad Capital	31.680672	70.835069	Historical	3	7386	8310	12218	Hike	4-star	4.3	1165	0.42	Winter	Easy	Skardu	luxury,budget,wildlife	2025-10-03T20:38:27.501491
+PKG0245	Larkana Viewpoint	Islamabad Capital	35.043672	75.390577	Cultural	8	7841	8803	12672	Private Van	Budget Hotel	3.9	129	1.66	Autumn	Hard	Multan	mountains,hiking,photography	2024-05-13T20:38:27.501527
+PKG0246	Hujra Shah Muqeem Falls	Azad Kashmir	34.959894	74.090073	City	10	14689	17331	18611	Private Van	Camping	2.9	509	1.16	Winter	Moderate	Gilgit	photography,food,luxury	2025-06-02T20:38:27.501553
+PKG0247	Malakand Pass Valley	Gilgit-Baltistan	33.827397	75.360392	Adventure	10	20054	22476	27037	Air	Budget Hotel	3.2	1006	0.34	Autumn	Easy	Multan	family,mountains,culture	2025-03-18T20:38:27.501575
+PKG0248	Khewra Crystal Caves Point	Azad Kashmir	33.771826	75.60262	Nature	8	14420	16739	20909	Road	4-star	4.1	915	5.84	Autumn	Easy	Rawalpindi	hiking,photography,mountains	2025-07-19T20:38:27.501601
+PKG0249	Kallar Kahar	Balochistan	26.214992	66.294593	Nature	5	3972	6554	8748	Private Van	3-star	3.8	744	2.07	Spring	Easy		beach,budget,culture	2023-09-08T20:38:27.501623
+PKG0250	Kotli Falls	Gilgit-Baltistan	36.338802	75.443003	Cultural	2	5929	6828	9144	Road	3-star	4.2	727	0.34	Autumn	Hard	Hunza	budget,hiking,lake	2025-09-16T20:38:27.501645
+PKG0251	Bumburet Valley	Balochistan	26.842695	67.301137	Trekking	2	19073	20614	22718	Air	Budget Hotel	4.8	804	0.1	Summer	Moderate		food,trek,budget	2025-07-14T20:38:27.501667
+PKG0252	Passu Cones Viewpoint	Balochistan	26.279002	66.799443	Nature	8	8400	10773	15403	Air	4-star	3.8	8	2.23	All Year	Hard	Lahore	culture,luxury,wildlife	2024-06-25T20:38:27.501689
+PKG0253	Nanga Parbat Base Camp Falls	Islamabad Capital	36.206974	71.103215	Adventure	3	10928	11852	15525	Hike	Luxury Resort	4.4	659	2.12	All Year	Moderate	Sialkot	wildlife,hiking,trek	2025-01-25T20:38:27.501711
+PKG0254	Sakesar	Khyber Pakhtunkhwa	36.82295	71.717074	Adventure	3	10705	12895	17591	Train	Camping	4.1	1121	0.56	Autumn	Hard	Murree	culture,photography,trek	2025-04-10T20:38:27.501740
+PKG0255	Kotli	Gilgit-Baltistan	37.786307	75.619668	Adventure	3	16702	19265	24209	Train	Camping	4.4	236	3.55	Autumn	Hard	Rawalpindi	wildlife,food,photography	2023-11-05T20:38:27.501772
+PKG0256	Noorpur Shahan	Azad Kashmir	35.987212	75.748336	Beach	7	18326	18878	23660	Road	Budget Hotel	3.7	780	0.46	Summer	Easy	Gilgit	mountains,trek,family	2023-09-25T20:38:27.501795
+PKG0257	Kalash Valley	Khyber Pakhtunkhwa	35.100342	69.87857	Historical	5	11223	12558	17491	Road	3-star	4.0	926	0.1	Spring	Hard		photography,hiking,culture	2025-03-17T20:38:27.501816
+PKG0258	Skardu Shangrila Fort	Azad Kashmir	34.867623	72.125573	Beach	1	500	1000	4674	Private Van	Camping	5.0	640	4.46	All Year	Easy	Lahore	hiking,family,trek	2024-02-05T20:38:27.501842
+PKG0259	Sialkot Park	Islamabad Capital	35.900709	75.019901	City	10	2892	5863	7972	Air	3-star	4.7	919	0.6	Summer	Hard	Karachi	heritage,food,culture	2025-07-02T20:38:27.501877
+PKG0260	Mahodand Lake	Punjab	30.571047	72.339592	Adventure	3	20002	22894	25483	Road	3-star	3.3	955	0.62	Summer	Easy	Islamabad	budget,wildlife,mountains	2023-09-01T20:38:27.501914
+PKG0261	Sarhad Park	Gilgit-Baltistan	38.55884	73.306929	City	2	500	1317	6121	Air	Guesthouse	5.0	1066	1.61	Spring	Hard	Islamabad	luxury,culture,hiking	2024-09-14T20:38:27.501951
+PKG0262	Taxila Museum	Khyber Pakhtunkhwa	32.327188	70.280123	City	6	500	1000	3904	Air	Luxury Resort	3.9	1086	5.93	Winter	Hard		food,photography,mountains	2025-07-07T20:38:27.501974
+PKG0263	Sukkur Heritage Site	Khyber Pakhtunkhwa	33.674003	74.426979	Religious	1	3916	5730	9354	Road	4-star	4.4	525	4.06	All Year	Hard	Quetta	mountains,culture,budget	2024-05-24T20:38:27.502008
+PKG0264	Nanga Parbat Base Camp Falls	Balochistan	28.920828	64.778604	Religious	6	12226	14830	16004	Road	Guesthouse	4.2	1101	3.22	All Year	Easy	Gilgit	lake,trek,photography	2024-01-27T20:38:27.502038
+PKG0265	Hujra Shah Muqeem Resort	Sindh	28.689705	68.045257	Nature	4	10116	12818	16883	Road	Camping	4.2	314	0.63	Spring	Moderate	Murree	budget,mountains,lake	2025-08-18T20:38:27.502076
+PKG0266	Shangrila Resort, Skardu	Sindh	28.265289	68.848505	Religious	5	19762	21931	25609	Private Van	Camping	4.5	828	0.6	Winter	Moderate	Lahore	luxury,photography,lake	2024-05-03T20:38:27.502100
+PKG0267	Shalimar Gardens, Lahore	Azad Kashmir	35.821714	71.079426	Historical	2	8060	10025	14644	Road	3-star	4.1	617	8.32	All Year	Easy	Quetta	food,beach,luxury	2024-09-23T20:38:27.502124
+PKG0268	Bagh Falls	Punjab	30.843926	72.200807	Adventure	7	4534	7269	10185	Air	3-star	4.3	764	0.64	Spring	Hard		culture,heritage,lake	2025-09-20T20:38:27.502146
+PKG0269	Shalimar Gardens, Lahore	Gilgit-Baltistan	37.079929	74.722912	Nature	5	14815	16175	19491	Air	4-star	3.7	1049	0.64	Summer	Easy	Islamabad	trek,wildlife,family	2025-04-17T20:38:27.502169
+PKG0270	Hingol National Park	Sindh	27.525867	68.903756	Historical	10	18644	21033	22132	Train	Camping	4.6	137	3.54	Autumn	Easy	Peshawar	hiking,wildlife,beach	2024-11-28T20:38:27.502191
+PKG0271	Muzaffarabad	Sindh	27.527773	66.907197	Beach	2	9244	10536	13639	Private Van	4-star	4.7	672	1.84	All Year	Hard	Quetta	hiking,wildlife,heritage	2024-04-01T20:38:27.502212
+PKG0272	Rama Meadow Heritage Site	Khyber Pakhtunkhwa	35.846199	74.751954	Adventure	1	7195	8977	11493	Air	Camping	4.5	893	4.92	Autumn	Moderate	Islamabad	photography,hiking,budget	2024-06-28T20:38:27.502241
+PKG0273	Lower Dir	Balochistan	28.15245	64.832831	Nature	3	970	3954	5125	Train	Guesthouse	3.6	1103	1.46	Summer	Moderate	Murree	photography,lake,hiking	2025-10-13T20:38:27.502278
+PKG0274	Suleman Range Heritage Site	Azad Kashmir	31.687165	74.191343	Trekking	4	12261	12911	15545	Hike	Luxury Resort	4.3	966	1.85	Summer	Moderate	Sialkot	trek,wildlife,family	2025-06-17T20:38:27.502319
+PKG0275	Lower Dir	Gilgit-Baltistan	36.562472	73.880711	Historical	4	4151	5330	10041	Air	4-star	3.5	326	0.68	Summer	Hard	Skardu	photography,heritage,beach	2024-10-30T20:38:27.502344
+PKG0276	Eagle's Nest, Gilgit	Sindh	28.068834	66.890499	Beach	6	15589	17047	17897	Air	Luxury Resort	3.8	739	0.71	Winter	Moderate	Rawalpindi	mountains,food,photography	2024-12-05T20:38:27.502366
+PKG0277	Mohenjo-daro	Azad Kashmir	37.310648	74.501402	Beach	5	500	3303	8262	Hike	Guesthouse	5.0	771	2.18	Winter	Moderate	Skardu	photography,lake,culture	2025-02-17T20:38:27.502392
+PKG0278	Mahodand Lake	Sindh	26.598231	67.617388	City	8	7097	9571	10125	Hike	Guesthouse	4.3	900	0.48	Summer	Easy	Karachi	culture,photography,family	2025-03-30T20:38:27.502420
+PKG0279	Frere Hall, Karachi	Sindh	24.444144	69.112122	Nature	4	9348	11546	14751	Road	4-star	4.3	980	1.37	Winter	Easy	Skardu	heritage,photography,luxury	2025-10-10T20:38:27.502443
+PKG0280	Rawalakot	Punjab	28.767311	72.554086	Adventure	10	4202	4862	6565	Road	Guesthouse	4.7	528	2.95	Summer	Hard	Sialkot	wildlife,food,photography	2025-10-13T20:38:27.502473
+PKG0281	Naltar Valley Park	Azad Kashmir	35.47047	72.400728	Nature	4	12451	14790	19151	Private Van	Guesthouse	5.0	449	2.33	Winter	Hard	Islamabad	food,wildlife,heritage	2024-02-02T20:38:27.502505
+PKG0282	Kund Malir Park	Gilgit-Baltistan	35.087124	75.845121	City	8	500	1000	2063	Air	4-star	4.0	789	3.42	Summer	Easy	Lahore	trek,culture,hiking	2023-12-02T20:38:27.502527
+PKG0283	Larkana	Islamabad Capital	31.577367	70.617791	Cultural	1	10118	12794	17417	Road	Budget Hotel	4.7	987	0.64	Summer	Hard	Hunza	mountains,photography,hiking	2024-08-17T20:38:27.502550
+PKG0284	Murree Mall Road Viewpoint	Balochistan	28.222265	63.26063	Trekking	4	1948	4422	8045	Train	Luxury Resort	4.8	1179	0.19	Spring	Moderate	Islamabad	family,beach,trek	2025-08-08T20:38:27.502572
+PKG0285	Khyber Pass	Gilgit-Baltistan	38.760598	73.95188	Religious	1	8024	8553	13333	Road	Luxury Resort	4.5	14	0.41	Winter	Hard	Peshawar	hiking,budget,luxury	2024-10-27T20:38:27.502594
+PKG0286	Makli Necropolis	Sindh	26.05643	69.012221	Beach	10	13153	15387	18882	Hike	3-star	4.3	813	2.64	Summer	Moderate	Hunza	food,culture,beach	2025-05-02T20:38:27.502616
+PKG0287	Srinagar (historical list)	Gilgit-Baltistan	36.829468	73.022666	Beach	6	10228	12358	13989	Road	Camping	4.7	470	2.36	Winter	Hard	Islamabad	lake,trek,culture	2024-09-17T20:38:27.502638
+PKG0288	Hub River	Islamabad Capital	33.983457	74.222344	Historical	3	4184	6277	6820	Road	Guesthouse	4.5	965	1.34	All Year	Moderate	Karachi	lake,family,trek	2024-10-18T20:38:27.502660
+PKG0289	Murree	Gilgit-Baltistan	33.726532	73.805956	Trekking	10	15904	17577	18547	Air	Camping	4.3	1012	0.4	Winter	Easy	Peshawar	photography,culture,family	2025-04-16T20:38:27.502682
+PKG0290	Karimabad, Hunza	Islamabad Capital	34.277089	73.134882	Religious	3	13263	13910	17356	Air	Camping	4.3	0	0.1	Summer	Easy	Quetta	food,luxury,budget	2023-12-17T20:38:27.502704
+PKG0291	Sakesar	Balochistan	29.516481	66.106456	Nature	2	5762	8513	11343	Hike	Luxury Resort	4.7	712	5.16	Autumn	Moderate	Peshawar	wildlife,trek,beach	2024-09-14T20:38:27.502726
+PKG0292	Shangrila Resort Falls	Punjab	29.566645	71.442808	Nature	10	20978	21774	26395	Train	3-star	4.2	239	3.72	All Year	Moderate	Hunza	food,wildlife,family	2023-11-22T20:38:27.502748
+PKG0293	Ranikot	Balochistan	29.379012	67.619803	City	8	12242	14629	15353	Private Van	Budget Hotel	3.9	528	0.1	Spring	Moderate	Gilgit	food,trek,photography	2023-11-14T20:38:27.502773
+PKG0294	Mansehra	Islamabad Capital	32.574384	75.772674	Historical	5	500	1000	3853	Road	4-star	4.5	700	0.26	Spring	Hard	Islamabad	beach,budget,hiking	2025-03-23T20:38:27.502809
+PKG0295	Cholistan Fort	Khyber Pakhtunkhwa	32.096707	73.476938	Religious	8	9015	10332	12755	Air	3-star	4.0	423	0.83	Summer	Easy		trek,wildlife,budget	2025-05-26T20:38:27.502839
+PKG0296	Sialkot Park	Punjab	28.719271	69.470925	Cultural	1	4716	7433	8279	Private Van	3-star	4.3	645	0.76	Winter	Hard		family,beach,heritage	2023-09-11T20:38:27.502861
+PKG0297	Nanga Parbat Base Camp Falls	Khyber Pakhtunkhwa	33.387277	73.501016	Adventure	1	21028	23681	27647	Private Van	Luxury Resort	4.3	66	0.77	All Year	Moderate	Sialkot	photography,heritage,beach	2025-07-01T20:38:27.502884
+PKG0298	Skardu Shangrila Park	Gilgit-Baltistan	36.260424	75.635263	Historical	4	12152	14206	15531	Train	3-star	4.3	531	1.91	Summer	Hard	Quetta	trek,family,beach	2024-02-13T20:38:27.502910
+PKG0299	Marine Drive, Karachi	Khyber Pakhtunkhwa	32.103482	71.543657	Trekking	6	13498	15493	19274	Train	4-star	4.7	368	5.6	All Year	Easy	Skardu	photography,trek,lake	2023-10-25T20:38:27.502943
+PKG0300	Hyderabad (Sindh)	Islamabad Capital	32.094831	72.633313	Trekking	4	21242	22339	24064	Private Van	Budget Hotel	3.9	361	1.03	Winter	Moderate	Islamabad	photography,culture,hiking	2023-10-26T20:38:27.502972
+PKG0301	Ziarat	Islamabad Capital	33.599721	71.545844	Historical	7	21888	22793	24631	Road	Guesthouse	4.0	520	4.14	Winter	Hard	Karachi	beach,hiking,budget	2025-02-08T20:38:27.502994
+PKG0302	Neelam Valley (alternate)	Khyber Pakhtunkhwa	34.3621	74.591067	Beach	6	500	1000	4873	Road	3-star	3.3	407	2.68	All Year	Hard	Gilgit	photography,culture,heritage	2023-08-25T20:38:27.503015
+PKG0303	Khyber Pass	Khyber Pakhtunkhwa	32.950542	72.062667	Cultural	2	4418	6478	9325	Private Van	Camping	4.1	296	0.88	Summer	Hard	Gwadar	budget,luxury,photography	2024-02-13T20:38:27.503047
+PKG0304	Cholistan Fort	Balochistan	31.093405	63.428064	Adventure	6	7529	8963	12031	Train	Camping	3.7	596	0.53	Autumn	Hard	Gilgit	luxury,family,beach	2023-08-25T20:38:27.503071
+PKG0305	Neelam Valley (alternate)	Azad Kashmir	35.021519	76.493156	Trekking	3	13538	14791	15480	Air	Camping	4.3	480	0.97	Autumn	Hard	Murree	hiking,lake,trek	2025-05-15T20:38:27.503093
+PKG0306	Sakesar	Punjab	28.573322	74.620762	Cultural	10	1856	2576	3291	Private Van	Luxury Resort	4.5	170	5.99	Spring	Moderate	Skardu	heritage,lake,photography	2024-09-28T20:38:27.503120
+PKG0307	Gwadar Port	Sindh	24.984379	67.205052	Adventure	3	18248	20905	22802	Road	Budget Hotel	4.1	730	5.79	Autumn	Moderate	Rawalpindi	culture,family,food	2024-08-03T20:38:27.503153
+PKG0308	Ormara	Azad Kashmir	34.735725	74.244986	Cultural	7	20214	22858	27730	Train	3-star	3.9	986	0.37	All Year	Easy	Gwadar	lake,beach,family	2024-10-23T20:38:27.503176
+PKG0309	Hiran Minar	Khyber Pakhtunkhwa	31.934305	69.063335	Adventure	6	14324	15998	20341	Hike	Budget Hotel	4.4	1007	1.87	Winter	Moderate	Lahore	food,luxury,family	2024-02-29T20:38:27.503203
+PKG0310	Kaghan Valley	Islamabad Capital	30.723308	72.281863	Trekking	10	3290	5580	9313	Air	Guesthouse	4.2	798	0.39	Winter	Easy	Quetta	lake,luxury,photography	2025-03-01T20:38:27.503232
+PKG0311	Passu Cones Point	Islamabad Capital	35.479754	73.719297	Beach	5	2583	5261	7963	Private Van	Guesthouse	3.9	140	3.02	Summer	Easy	Quetta	lake,photography,beach	2024-02-08T20:38:27.503258
+PKG0312	Shangla	Khyber Pakhtunkhwa	35.202836	71.951976	City	1	4901	6024	6930	Hike	Budget Hotel	4.1	380	6.95	Spring	Moderate	Quetta	heritage,hiking,beach	2023-10-19T20:38:27.503279
+PKG0313	Lahore Fort	Sindh	24.041182	65.588349	Religious	6	15302	17523	20575	Private Van	3-star	3.9	949	2.38	Spring	Moderate	Karachi	food,heritage,mountains	2025-02-02T20:38:27.503302
+PKG0314	Hujra Shah Muqeem Resort	Balochistan	26.428308	65.820881	Religious	5	8999	11061	11664	Road	Camping	4.0	509	0.51	Winter	Moderate	Peshawar	hiking,mountains,trek	2024-07-18T20:38:27.503325
+PKG0315	Swat Valley Point	Islamabad Capital	31.243762	74.036047	Religious	8	8124	10217	13273	Train	Guesthouse	3.4	86	1.8	All Year	Hard	Karachi	family,beach,photography	2024-12-31T20:38:27.503361
+PKG0316	Kumrat Valley	Khyber Pakhtunkhwa	36.325117	74.181946	Religious	2	2493	3959	8015	Train	Budget Hotel	4.3	342	4.2	Autumn	Hard	Karachi	luxury,trek,mountains	2025-09-19T20:38:27.503389
+PKG0317	Ayubia National Park Falls	Islamabad Capital	34.824508	74.170439	Adventure	6	10457	11323	13860	Air	4-star	4.0	187	4.39	All Year	Moderate	Gwadar	photography,mountains,hiking	2024-11-02T20:38:27.503410
+PKG0318	Mansehra Fort	Sindh	27.707969	70.248797	Adventure	8	16807	18260	21354	Hike	Camping	4.7	711	1.6	Winter	Hard	Peshawar	mountains,hiking,luxury	2024-10-31T20:38:27.503432
+PKG0319	Nanga Parbat Base Camp Heritage Site	Sindh	25.004177	65.736931	Cultural	10	6231	7938	12884	Private Van	Guesthouse	3.8	1160	0.93	Summer	Hard	Multan	budget,hiking,beach	2025-01-24T20:38:27.503457
+PKG0320	Sukkur Falls	Islamabad Capital	34.007122	70.45326	Adventure	8	18593	20304	22961	Hike	3-star	3.7	929	1.37	Spring	Hard	Hunza	luxury,hiking,heritage	2025-10-13T20:38:27.503478
+PKG0321	Kotli Falls	Islamabad Capital	32.864451	73.761184	City	2	3187	5894	9568	Air	Luxury Resort	4.3	1018	3.81	All Year	Easy	Skardu	family,budget,luxury	2024-01-15T20:38:27.503500
+PKG0322	Quetta	Punjab	28.577538	72.953346	Historical	3	500	1000	1756	Air	Budget Hotel	3.8	994	1.79	Summer	Easy	Lahore	wildlife,photography,luxury	2023-12-29T20:38:27.503521
+PKG0323	Gwadar Beaches	Gilgit-Baltistan	37.243823	75.041805	Historical	6	4659	6063	7143	Road	Guesthouse	4.7	1006	2.27	Spring	Moderate	Gwadar	photography,mountains,budget	2024-04-09T20:38:27.503559
+PKG0324	Skardu Shangrila Fort	Balochistan	30.932159	67.765497	Historical	5	500	1000	1833	Road	3-star	4.4	159	4.22	Summer	Hard	Karachi	lake,hiking,trek	2024-05-06T20:38:27.503589
+PKG0325	Sarhad	Sindh	24.658717	69.441259	Adventure	10	15757	18543	22444	Road	Camping	4.8	1180	3.8	Autumn	Hard	Rawalpindi	hiking,photography,luxury	2025-07-18T20:38:27.503621
+PKG0326	Bumburet Valley	Islamabad Capital	31.762379	72.449343	City	3	8747	11433	15562	Train	3-star	4.6	1126	3.63	Autumn	Moderate	Sialkot	food,photography,luxury	2023-10-20T20:38:27.503643
+PKG0327	Quetta	Gilgit-Baltistan	34.944335	74.773757	Trekking	10	19860	21400	24849	Private Van	4-star	4.8	813	1.93	Spring	Hard	Lahore	family,wildlife,mountains	2024-05-20T20:38:27.503665
+PKG0328	Ormara	Khyber Pakhtunkhwa	31.039413	74.906367	Religious	6	4516	5104	7864	Hike	Luxury Resort	4.4	1139	4.26	All Year	Hard	Islamabad	lake,mountains,beach	2024-11-02T20:38:27.503691
+PKG0329	Haji Camp, Karachi	Sindh	25.089929	70.837752	Religious	4	6448	7997	10957	Road	Luxury Resort	4.3	818	0.82	All Year	Easy	Murree	lake,hiking,budget	2024-06-25T20:38:27.503714
+PKG0330	Ratti Gali Lake	Balochistan	30.954231	67.137571	Nature	5	10209	10862	14487	Road	Budget Hotel	4.4	684	3.41	Autumn	Moderate	Sialkot	lake,trek,photography	2024-02-24T20:38:27.503736
+PKG0331	Lahore Fort	Azad Kashmir	36.164512	72.994922	Beach	10	8504	9172	12287	Hike	Luxury Resort	4.8	306	0.1	Autumn	Hard	Murree	trek,heritage,mountains	2023-12-13T20:38:27.503758
+PKG0332	Sukkur Park	Balochistan	31.826241	67.517041	Nature	4	17637	19906	22779	Private Van	Guesthouse	3.5	270	7.95	Autumn	Easy	Rawalpindi	wildlife,hiking,mountains	2024-04-19T20:38:27.503782
+PKG0333	Soon Valley	Khyber Pakhtunkhwa	31.510474	72.010939	Adventure	3	4371	6840	8962	Private Van	4-star	4.6	1170	2.01	Summer	Hard	Skardu	hiking,culture,trek	2025-02-26T20:38:27.503803
+PKG0334	Naltar Valley	Khyber Pakhtunkhwa	35.660631	70.94047	Nature	2	21776	23970	27939	Train	3-star	4.3	390	0.23	Autumn	Moderate	Skardu	photography,mountains,family	2025-05-12T20:38:27.503825
+PKG0335	Bagh, Azad Kashmir	Gilgit-Baltistan	38.429504	76.316776	Adventure	8	15813	16496	18908	Air	Camping	5.0	765	6.59	Summer	Hard		lake,food,mountains	2025-02-26T20:38:27.503847
+PKG0336	Kotli Falls	Sindh	28.712514	70.420804	Historical	6	15298	16253	19252	Private Van	4-star	3.5	46	5.38	Autumn	Easy	Murree	culture,trek,hiking	2024-04-21T20:38:27.503868
+PKG0337	Murree Mall Road Viewpoint	Islamabad Capital	32.231948	72.938158	Adventure	1	10279	12321	17136	Road	3-star	4.3	348	0.72	Spring	Moderate	Peshawar	food,hiking,wildlife	2025-01-28T20:38:27.503890
+PKG0338	Shangrila Resort, Skardu	Balochistan	29.928547	63.050005	Trekking	5	10847	12822	14205	Road	3-star	4.3	791	1.75	Summer	Moderate	Hunza	hiking,lake,budget	2024-06-23T20:38:27.503912
+PKG0339	Gurez Valley Resort	Gilgit-Baltistan	34.028124	72.693251	Cultural	10	15582	16170	16995	Air	Luxury Resort	3.4	624	0.1	Autumn	Moderate	Sialkot	hiking,heritage,mountains	2024-11-11T20:38:27.503934
+PKG0340	Larkana Viewpoint	Khyber Pakhtunkhwa	33.132269	70.813957	Beach	1	9647	11202	14873	Road	Luxury Resort	3.9	573	0.1	Summer	Easy	Multan	luxury,photography,heritage	2025-08-04T20:38:27.503956
+PKG0341	Swat Valley Trail	Balochistan	29.124307	67.067969	Religious	7	16909	18393	20144	Private Van	3-star	4.2	674	2.3	Winter	Hard	Islamabad	trek,photography,heritage	2024-03-17T20:38:27.503982
+PKG0342	Bahawalpur (Derawar Fort) Trail	Azad Kashmir	36.30063	75.875526	Beach	10	500	1000	5023	Air	Camping	4.0	1156	10.0	Summer	Moderate	Karachi	culture,food,lake	2025-04-27T20:38:27.504007
+PKG0343	Kalat	Islamabad Capital	35.957829	74.402477	City	7	500	1000	3985	Private Van	Camping	3.1	560	0.36	Summer	Easy	Karachi	heritage,food,mountains	2023-09-13T20:38:27.504039
+PKG0344	Quaid-e-Azam's Mausoleum Point	Gilgit-Baltistan	35.101176	74.902259	Religious	4	11446	12891	13604	Train	Budget Hotel	4.7	976	0.5	Summer	Hard		wildlife,beach,photography	2024-10-15T20:38:27.504062
+PKG0345	Nathia Gali	Islamabad Capital	33.004762	72.883082	Adventure	4	15036	16462	17226	Private Van	Budget Hotel	3.9	552	2.13	Winter	Easy	Murree	photography,trek,hiking	2025-08-26T20:38:27.504089
+PKG0346	Neelum Valley	Balochistan	31.202774	65.939657	City	8	6155	7665	11667	Private Van	Budget Hotel	3.6	779	5.75	Autumn	Moderate	Skardu	hiking,wildlife,food	2024-05-01T20:38:27.504111
+PKG0347	Minar-e-Pakistan Falls	Azad Kashmir	36.754698	75.421519	Nature	8	23708	26079	26926	Air	Luxury Resort	3.7	1101	1.01	Winter	Hard	Lahore	culture,luxury,food	2023-09-10T20:38:27.504144
+PKG0348	Ormara Cliffs Falls	Punjab	29.139102	71.637323	Beach	5	11998	14387	16250	Private Van	3-star	4.1	111	0.52	All Year	Easy	Rawalpindi	photography,beach,lake	2023-10-24T20:38:27.504167
+PKG0349	Minar-e-Pakistan Park	Punjab	29.078628	72.512686	Adventure	7	5297	7490	10639	Private Van	Budget Hotel	4.9	366	4.0	Winter	Hard	Murree	trek,beach,lake	2025-02-18T20:38:27.504195
+PKG0350	Quetta	Azad Kashmir	35.391459	74.968818	Adventure	2	17160	18033	19468	Private Van	Camping	4.2	743	0.41	Spring	Hard	Murree	luxury,hiking,culture	2024-02-14T20:38:27.504216
+PKG0351	Chitral	Balochistan	29.302075	63.263437	Adventure	6	14240	17056	18785	Air	Guesthouse	4.4	366	2.95	Spring	Moderate	Quetta	family,hiking,beach	2025-01-10T20:38:27.504243
+PKG0352	Sarhad Park	Sindh	24.205324	66.289426	Religious	1	10223	11759	12359	Private Van	4-star	4.5	1021	1.97	All Year	Easy	Skardu	beach,trek,hiking	2024-03-09T20:38:27.504265
+PKG0353	Kund Malir Park	Balochistan	28.722431	65.651252	Historical	4	7438	10179	12957	Hike	Camping	4.6	1141	3.18	Summer	Easy	Islamabad	heritage,mountains,photography	2024-11-09T20:38:27.504288
+PKG0354	Attabad Lake	Sindh	28.622976	69.501979	Beach	6	1956	2815	3716	Road	4-star	4.2	365	0.27	Summer	Hard	Quetta	wildlife,photography,food	2024-03-25T20:38:27.504311
+PKG0355	Bagh Lake	Sindh	29.29776	69.996009	City	1	4060	4941	7892	Train	3-star	5.0	776	0.45	Spring	Moderate		culture,lake,family	2024-07-07T20:38:27.504333
+PKG0356	Ormara	Punjab	32.167717	70.646511	Trekking	10	9196	10555	12767	Hike	Budget Hotel	4.2	223	1.74	All Year	Hard	Gilgit	culture,lake,beach	2023-10-22T20:38:27.504364
+PKG0357	Hingol National Park Viewpoint	Gilgit-Baltistan	39.10335	77.417671	Beach	7	11050	14043	17135	Train	Luxury Resort	3.9	1177	0.74	All Year	Moderate	Islamabad	wildlife,food,beach	2024-05-18T20:38:27.504387
+PKG0358	Swat Valley Trail	Azad Kashmir	34.486447	75.547882	Religious	5	6046	7338	7850	Road	Budget Hotel	4.2	952	0.15	Spring	Hard		trek,wildlife,luxury	2024-09-04T20:38:27.504412
+PKG0359	Passu Cones, Hunza	Khyber Pakhtunkhwa	33.0979	73.836261	Religious	1	4962	6286	9093	Train	Budget Hotel	3.0	630	1.83	Autumn	Hard	Hunza	budget,mountains,lake	2023-11-30T20:38:27.504448
+PKG0360	Kund Malir	Khyber Pakhtunkhwa	33.376296	72.413529	Historical	3	13847	15141	18348	Train	Camping	3.7	981	3.93	Winter	Easy	Gilgit	heritage,beach,food	2024-01-29T20:38:27.504471
+PKG0361	Upper Dir	Islamabad Capital	33.901805	72.050658	Trekking	1	6564	9198	12150	Hike	Camping	4.2	646	0.55	All Year	Hard	Lahore	trek,wildlife,photography	2024-11-27T20:38:27.504500
+PKG0362	Kotli, AJK	Punjab	33.81768	70.68276	Historical	6	21376	23412	28288	Air	Luxury Resort	4.2	797	2.42	Summer	Hard	Karachi	food,family,budget	2023-11-06T20:38:27.504522
+PKG0363	Karimabad, Hunza	Khyber Pakhtunkhwa	33.483217	71.982327	Religious	6	5323	7674	10653	Air	Luxury Resort	4.2	619	0.79	Summer	Easy	Multan	food,mountains,trek	2025-07-30T20:38:27.504544
+PKG0364	Ranikot	Gilgit-Baltistan	33.649609	74.395979	Adventure	4	7849	9742	14202	Hike	3-star	4.2	670	0.86	Summer	Easy		culture,photography,heritage	2025-04-05T20:38:27.504567
+PKG0365	Nanga Parbat Base Camp Heritage Site	Punjab	30.75621	73.282064	Nature	1	7217	8990	9850	Hike	Budget Hotel	4.1	682	1.68	Winter	Easy	Karachi	culture,photography,family	2025-10-09T20:38:27.504589
+PKG0366	Shangrila Resort Falls	Islamabad Capital	32.552857	75.392814	City	4	13645	14933	17780	Train	Luxury Resort	4.5	653	0.45	Winter	Hard	Karachi	family,heritage,hiking	2025-01-25T20:38:27.504611
+PKG0367	Hingol National Park	Punjab	33.749788	72.357755	Nature	4	20674	23396	26765	Hike	3-star	4.7	555	0.1	Summer	Hard	Gwadar	family,wildlife,trek	2025-05-10T20:38:27.504647
+PKG0368	Naltar Valley	Khyber Pakhtunkhwa	34.679577	71.032433	Cultural	1	18839	19871	20608	Private Van	Camping	4.4	103	4.1	Spring	Moderate	Lahore	lake,luxury,hiking	2025-05-02T20:38:27.504671
+PKG0369	Dir Point	Gilgit-Baltistan	38.847655	75.276824	Cultural	6	12592	14371	17593	Air	Camping	4.5	1092	0.83	Spring	Moderate	Skardu	heritage,lake,beach	2025-07-25T20:38:27.504693
+PKG0370	Dir	Khyber Pakhtunkhwa	35.106868	73.261295	Cultural	8	8238	9687	12020	Air	Luxury Resort	4.7	528	3.4	Autumn	Moderate	Islamabad	hiking,photography,budget	2024-12-04T20:38:27.504718
+PKG0371	Dir	Balochistan	26.181585	65.852006	City	8	19062	21451	23350	Train	3-star	3.9	1176	1.49	Summer	Hard	Karachi	luxury,hiking,lake	2024-12-03T20:38:27.504739
+PKG0372	Malakand Pass Valley	Azad Kashmir	31.925544	72.512709	Cultural	7	3864	6782	10668	Air	Luxury Resort	4.3	499	0.12	All Year	Easy	Rawalpindi	luxury,lake,budget	2025-04-02T20:38:27.504761
+PKG0373	Kallar Kahar Fort	Gilgit-Baltistan	36.086891	77.381231	City	10	3624	5091	7008	Road	Camping	4.0	1175	4.11	Winter	Easy	Skardu	wildlife,beach,budget	2024-04-12T20:38:27.504788
+PKG0374	Rohtas Fort	Islamabad Capital	33.351297	71.888214	Trekking	2	5860	8810	10200	Hike	4-star	3.9	670	3.12	Winter	Hard	Gilgit	mountains,lake,trek	2025-06-12T20:38:27.504811
+PKG0375	Ayubia National Park Falls	Islamabad Capital	34.496797	70.041106	Adventure	3	12498	14853	19705	Train	4-star	5.0	1183	1.62	Winter	Easy	Peshawar	photography,budget,family	2024-03-28T20:38:27.504837
+PKG0376	Ormara Cliffs Trail	Khyber Pakhtunkhwa	36.51101	74.620059	City	2	514	3400	3966	Hike	Luxury Resort	4.6	827	10.0	Summer	Moderate	Lahore	budget,culture,mountains	2025-11-01T20:38:27.504863
+PKG0377	Dir Point	Gilgit-Baltistan	38.42452	73.655468	Beach	1	7765	9228	13264	Hike	4-star	4.3	651	0.45	Winter	Moderate	Sialkot	luxury,culture,trek	2023-12-24T20:38:27.504889
+PKG0378	Ratti Gali Lake	Balochistan	26.834413	66.332529	City	7	4855	5986	8849	Air	Guesthouse	4.3	23	0.1	Spring	Hard	Lahore	heritage,hiking,beach	2023-12-29T20:38:27.504911
+PKG0379	Thatta	Sindh	24.007981	69.353457	Trekking	8	10480	13455	17442	Hike	Guesthouse	3.4	930	4.05	All Year	Moderate	Hunza	beach,luxury,budget	2025-03-15T20:38:27.504933
+PKG0380	Nathia Gali	Balochistan	29.62744	66.467631	Religious	10	12995	14597	18462	Hike	Luxury Resort	4.6	751	1.11	Spring	Easy	Skardu	beach,hiking,budget	2025-07-09T20:38:27.504956
+PKG0381	Ayubia National Park Falls	Balochistan	31.770426	63.480379	Beach	8	500	1645	2785	Hike	Luxury Resort	3.5	181	8.79	Summer	Moderate	Gilgit	hiking,photography,food	2025-08-14T20:38:27.504978
+PKG0382	Larkana Viewpoint	Azad Kashmir	34.735183	74.177771	Historical	6	500	1000	1588	Private Van	4-star	5.0	1049	2.58	Winter	Hard	Murree	budget,luxury,food	2025-01-04T20:38:27.504999
+PKG0383	Jailani	Sindh	23.711957	71.037187	Beach	5	14721	15472	19848	Hike	Guesthouse	4.2	1173	4.62	Spring	Hard	Quetta	food,hiking,wildlife	2025-10-05T20:38:27.505024
+PKG0384	Sadiqabad	Balochistan	26.495061	66.033577	Beach	5	500	1000	3801	Train	3-star	3.9	29	1.79	Spring	Hard	Islamabad	wildlife,hiking,heritage	2023-12-28T20:38:27.505045
+PKG0385	Mankera	Khyber Pakhtunkhwa	35.847044	70.567516	Religious	8	16619	17859	22679	Road	3-star	4.9	172	2.64	Summer	Hard		heritage,beach,luxury	2023-09-05T20:38:27.505067
+PKG0386	Sarhad	Sindh	27.464004	69.855995	Adventure	4	14543	17409	20735	Road	Camping	3.9	541	4.79	Spring	Easy	Islamabad	beach,luxury,food	2024-12-28T20:38:27.505096
+PKG0387	Karoonjhar Hills	Azad Kashmir	37.189511	76.234755	Religious	7	3601	5698	10085	Train	Guesthouse	3.9	1086	7.11	Winter	Easy	Quetta	food,beach,luxury	2023-12-08T20:38:27.505122
+PKG0388	Ziarat	Gilgit-Baltistan	37.597258	71.746106	City	7	7942	10942	13675	Train	3-star	4.1	546	1.36	Spring	Moderate	Gilgit	wildlife,luxury,beach	2023-09-02T20:38:27.505146
+PKG0389	Murree Resort	Azad Kashmir	32.950782	74.731339	Religious	10	10379	12261	14234	Train	Luxury Resort	4.0	21	1.18	Spring	Easy	Lahore	luxury,lake,culture	2025-07-18T20:38:27.505169
+PKG0390	Larkana Viewpoint	Balochistan	28.109099	67.351504	Beach	4	500	1000	1694	Hike	Budget Hotel	4.3	116	1.8	All Year	Hard		trek,wildlife,photography	2025-06-30T20:38:27.505190
+PKG0391	Makran Coastal Highway Fort	Punjab	28.518318	72.628115	Trekking	3	11871	12825	14834	Train	3-star	3.6	956	6.97	Spring	Hard	Rawalpindi	family,luxury,photography	2023-09-05T20:38:27.505212
+PKG0392	Malam Jabba Lake	Khyber Pakhtunkhwa	32.54402	73.684388	Beach	1	11776	13843	17526	Train	Budget Hotel	3.6	528	0.79	Autumn	Easy	Rawalpindi	lake,beach,trek	2024-02-16T20:38:27.505247
+PKG0393	Chiniot	Sindh	27.372899	66.150583	Trekking	4	11258	12193	16310	Train	Budget Hotel	4.4	71	7.0	Spring	Easy	Skardu	hiking,family,beach	2025-10-13T20:38:27.505270
+PKG0394	Kalat Falls	Sindh	27.417192	65.505206	Historical	7	500	1000	2741	Train	4-star	4.1	1176	0.15	Spring	Hard	Murree	food,beach,hiking	2024-08-12T20:38:27.505292
+PKG0395	Kallar Kahar	Islamabad Capital	35.046605	74.913654	Nature	10	14035	15460	15987	Private Van	Camping	3.6	987	0.82	Spring	Hard	Hunza	budget,food,photography	2024-12-26T20:38:27.505320
+PKG0396	Soon Valley	Punjab	31.793635	74.752943	Nature	6	10755	13444	16729	Road	4-star	4.8	593	0.57	Summer	Easy	Hunza	mountains,luxury,photography	2025-04-20T20:38:27.505342
+PKG0397	Hujra Shah Muqeem	Azad Kashmir	33.840628	71.340608	City	8	17157	18004	22091	Air	Guesthouse	4.6	73	0.37	Summer	Easy	Murree	wildlife,trek,beach	2024-09-29T20:38:27.505364
+PKG0398	Fairy Meadows	Islamabad Capital	33.923312	71.886385	Cultural	1	13431	14082	17361	Road	3-star	4.8	87	1.29	Winter	Easy	Peshawar	food,photography,hiking	2024-05-15T20:38:27.505386
+PKG0399	Upper Dir	Azad Kashmir	36.7212	73.919368	Religious	2	10640	11291	12950	Private Van	Camping	4.4	39	1.76	Winter	Hard	Lahore	trek,hiking,photography	2025-06-21T20:38:27.505408
+PKG0400	Minar-e-Pakistan, Lahore	Sindh	27.295969	70.927974	Nature	8	11981	13180	14203	Road	Budget Hotel	4.4	1018	0.24	All Year	Hard	Peshawar	lake,trek,luxury	2024-11-21T20:38:27.505430
+PKG0401	Swat Valley Point	Azad Kashmir	33.912052	71.424815	Adventure	6	13197	14570	15443	Hike	Guesthouse	4.2	687	1.52	Spring	Easy	Quetta	heritage,luxury,food	2023-11-19T20:38:27.505457
+PKG0402	Srinagar (historical list)	Gilgit-Baltistan	34.490037	72.961868	Historical	3	7305	8214	11795	Air	Budget Hotel	3.7	997	5.43	Spring	Easy	Lahore	heritage,lake,photography	2024-03-04T20:38:27.505493
+PKG0403	Khyber Pass	Balochistan	30.161021	67.753444	Cultural	3	8127	9471	11143	Train	Luxury Resort	3.2	922	0.1	Winter	Easy	Islamabad	wildlife,hiking,mountains	2024-03-01T20:38:27.505531
+PKG0404	Lake Saiful Muluk	Azad Kashmir	34.499326	76.401788	Beach	6	7621	9836	10373	Hike	Guesthouse	4.4	393	4.05	Spring	Hard	Karachi	wildlife,budget,culture	2024-05-31T20:38:27.505561
+PKG0405	Cholistan Desert	Balochistan	30.621988	66.955963	Beach	1	13695	14988	16411	Air	Camping	2.8	971	1.34	Winter	Easy	Islamabad	photography,mountains,hiking	2024-01-11T20:38:27.505583
+PKG0406	Gurez Valley	Khyber Pakhtunkhwa	32.257539	70.508291	Cultural	1	2846	3773	4702	Hike	Guesthouse	4.4	323	0.1	Spring	Moderate	Hunza	lake,food,trek	2023-10-25T20:38:27.505605
+PKG0407	Ranikot	Gilgit-Baltistan	36.978571	74.014398	City	4	14698	15649	18820	Air	Budget Hotel	3.7	485	0.45	Winter	Easy	Sialkot	trek,lake,beach	2024-03-12T20:38:27.505627
+PKG0408	Lasbela	Punjab	33.342933	69.869648	Cultural	3	8573	10659	14218	Air	4-star	3.9	397	1.17	Autumn	Moderate	Peshawar	budget,heritage,mountains	2023-11-24T20:38:27.505649
+PKG0409	Rama Meadow Heritage Site	Punjab	29.683625	69.666656	Cultural	8	5642	7855	9757	Train	Guesthouse	4.3	604	2.36	All Year	Easy	Gwadar	food,photography,wildlife	2025-05-11T20:38:27.505671
+PKG0410	Shangrila Resort Falls	Gilgit-Baltistan	38.630024	72.018846	Cultural	4	5891	8814	13192	Private Van	3-star	5.0	29	1.92	Winter	Hard		trek,food,budget	2024-08-14T20:38:27.505698
+PKG0411	Ayubia National Park Falls	Sindh	28.850936	69.05063	Adventure	1	13995	16206	17068	Road	4-star	4.7	1032	0.1	Spring	Moderate	Hunza	luxury,beach,lake	2024-07-26T20:38:27.505733
+PKG0412	Ormara Cliffs	Sindh	23.998549	70.018472	Trekking	4	15142	16185	19621	Train	Guesthouse	4.4	185	2.26	Spring	Moderate	Gilgit	family,heritage,beach	2024-03-27T20:38:27.505764
+PKG0413	Ranikot Fort Valley	Gilgit-Baltistan	33.646481	74.229045	Adventure	7	17575	18832	22366	Private Van	Camping	3.6	2	1.0	Spring	Moderate	Murree	budget,culture,mountains	2025-01-02T20:38:27.505786
+PKG0414	Katas Raj	Islamabad Capital	32.298736	75.716573	Religious	2	2495	4370	5319	Hike	Camping	4.3	745	2.14	Spring	Easy	Sialkot	budget,beach,wildlife	2025-09-21T20:38:27.505808
+PKG0415	Gurez Valley	Khyber Pakhtunkhwa	32.051604	72.352743	Nature	10	13277	14615	16248	Train	Guesthouse	4.4	1105	4.09	Spring	Hard	Rawalpindi	hiking,wildlife,trek	2023-09-22T20:38:27.505830
+PKG0416	Skardu Shangrila Fort	Islamabad Capital	32.032623	72.15627	Beach	10	8811	11043	13813	Road	Budget Hotel	4.9	763	2.68	Autumn	Moderate	Rawalpindi	culture,food,lake	2024-07-08T20:38:27.505851
+PKG0417	Makran Coastal Highway Fort	Gilgit-Baltistan	37.56985	74.697133	Beach	8	5528	7535	8572	Air	4-star	4.7	178	0.79	Spring	Moderate	Islamabad	family,lake,hiking	2025-05-17T20:38:27.505874
+PKG0418	Peshawar	Punjab	32.182493	71.977972	Religious	10	14689	15281	18182	Private Van	Camping	4.5	1108	2.87	Summer	Moderate	Multan	luxury,beach,photography	2025-10-11T20:38:27.505896
+PKG0419	Jailani	Sindh	23.877697	70.730762	Religious	10	5339	7214	11086	Hike	3-star	4.9	668	3.41	Winter	Hard	Gilgit	hiking,culture,food	2024-08-03T20:38:27.505919
+PKG0420	Upper Dir	Khyber Pakhtunkhwa	34.40351	74.389692	Beach	3	8158	9722	12079	Private Van	3-star	3.7	590	0.1	Spring	Easy	Multan	family,beach,heritage	2024-02-07T20:38:27.505942
+PKG0421	Kalash Valley	Azad Kashmir	34.7119	71.793683	Adventure	3	7262	8422	10870	Road	Budget Hotel	3.5	648	1.01	All Year	Easy	Rawalpindi	family,budget,heritage	2025-04-05T20:38:27.505964
+PKG0422	Bagh Lake	Azad Kashmir	31.708135	72.601663	City	3	1662	3689	7862	Hike	Guesthouse	5.0	1092	1.19	Autumn	Easy	Lahore	luxury,beach,heritage	2024-07-20T20:38:27.505985
+PKG0423	Kalat	Sindh	23.525766	69.93097	City	5	2725	5166	8040	Hike	Camping	3.5	301	0.52	All Year	Hard	Rawalpindi	budget,hiking,lake	2023-10-14T20:38:27.506009
+PKG0424	Cholistan	Punjab	28.83654	72.30576	Beach	1	7873	10018	12323	Private Van	3-star	3.8	189	2.21	Autumn	Easy	Skardu	photography,trek,wildlife	2024-05-11T20:38:27.506035
+PKG0425	Cholistan Desert	Islamabad Capital	36.29399	71.707563	Historical	2	2166	4871	9020	Road	Luxury Resort	5.0	807	0.96	Summer	Moderate	Multan	wildlife,food,culture	2025-09-05T20:38:27.506056
+PKG0426	Hiran Minar Valley	Khyber Pakhtunkhwa	33.385348	73.295783	Trekking	6	13273	15354	18908	Road	3-star	4.8	706	1.3	Autumn	Moderate	Rawalpindi	culture,lake,trek	2023-10-18T20:38:27.506079
+PKG0427	Ranikot	Azad Kashmir	37.455583	75.522113	Beach	3	500	1000	4893	Air	Luxury Resort	3.4	176	1.74	Summer	Easy	Quetta	beach,culture,budget	2025-08-26T20:38:27.506101
+PKG0428	Kallar Kahar Viewpoint	Islamabad Capital	32.934634	70.079713	Beach	7	21755	22971	27256	Hike	Guesthouse	4.6	408	2.9	Summer	Moderate	Quetta	culture,beach,mountains	2024-12-27T20:38:27.506136
+PKG0429	Neelum Valley Fort	Khyber Pakhtunkhwa	33.964603	73.439136	Religious	1	12058	12568	14329	Train	3-star	4.6	967	6.23	Spring	Hard	Gilgit	family,luxury,heritage	2024-06-16T20:38:27.506165
+PKG0430	Hingol National Park Viewpoint	Azad Kashmir	32.968502	71.416128	Beach	8	6710	7483	10946	Hike	4-star	4.4	1158	5.24	Winter	Moderate	Gilgit	photography,beach,lake	2024-10-15T20:38:27.506194
+PKG0431	Hub River Trail	Azad Kashmir	34.951582	75.77168	Adventure	1	9378	10476	13594	Private Van	Camping	4.1	277	1.33	Autumn	Easy	Lahore	family,budget,luxury	2024-01-20T20:38:27.506216
+PKG0432	Muzaffarabad	Punjab	29.739137	72.177674	Nature	10	8483	9776	11777	Road	Luxury Resort	3.7	342	0.73	All Year	Moderate		budget,photography,family	2025-01-28T20:38:27.506237
+PKG0433	Larkana Viewpoint	Azad Kashmir	35.63008	71.275	City	3	9527	10079	11700	Hike	3-star	4.9	763	0.75	Winter	Moderate	Multan	heritage,lake,trek	2025-05-27T20:38:27.506259
+PKG0434	Minar-e-Pakistan Park	Sindh	28.489441	70.27064	Nature	7	21701	24087	25212	Road	Guesthouse	4.6	35	0.64	Winter	Moderate	Quetta	hiking,budget,heritage	2024-08-06T20:38:27.506281
+PKG0435	Gurez Valley Resort	Gilgit-Baltistan	38.081537	73.552271	Beach	1	2120	3105	5426	Air	Camping	4.1	291	0.4	Summer	Moderate	Islamabad	trek,heritage,lake	2024-08-23T20:38:27.506338
+PKG0436	Hingol National Park Viewpoint	Islamabad Capital	35.384178	70.506412	Cultural	7	2510	3184	5292	Road	Budget Hotel	4.5	1051	1.49	All Year	Easy	Rawalpindi	lake,family,mountains	2025-08-26T20:38:27.506365
+PKG0437	Hiran Minar	Azad Kashmir	31.561634	71.279022	Nature	4	8485	11391	13529	Air	Camping	4.4	719	1.68	Spring	Easy	Islamabad	hiking,family,wildlife	2024-11-10T20:38:27.506387
+PKG0438	Kotli, AJK	Sindh	28.630828	70.184813	Religious	10	14549	17384	18443	Road	Luxury Resort	4.2	28	1.6	All Year	Easy	Murree	trek,family,heritage	2023-09-21T20:38:27.506408
+PKG0439	Minar-e-Pakistan Trail	Punjab	33.841479	69.592114	Religious	10	7307	9751	13253	Hike	Guesthouse	4.0	900	6.05	Spring	Easy		budget,luxury,hiking	2025-03-27T20:38:27.506430
+PKG0440	Hub River Trail	Sindh	25.945468	70.068457	City	2	13828	16236	17639	Hike	Guesthouse	4.4	1015	4.31	Autumn	Hard	Quetta	culture,hiking,mountains	2025-08-09T20:38:27.506451
+PKG0441	Hinglaj Mata Temple area	Balochistan	26.694336	64.701669	Beach	8	3363	4788	8624	Train	4-star	3.9	386	1.89	Spring	Moderate	Gilgit	budget,heritage,mountains	2023-12-12T20:38:27.506473
+PKG0442	Gwadar Beaches	Azad Kashmir	32.131031	73.32835	Nature	2	20809	21896	25630	Private Van	Camping	4.0	208	4.61	Summer	Easy	Multan	trek,budget,food	2024-03-02T20:38:27.506495
+PKG0443	Kallar Kahar	Punjab	29.397218	71.548225	Cultural	5	500	1536	4272	Private Van	3-star	3.9	974	3.03	All Year	Moderate	Rawalpindi	culture,family,heritage	2023-09-07T20:38:27.506518
+PKG0444	Dir	Punjab	28.73314	71.936048	Religious	3	13196	13817	15132	Road	Budget Hotel	3.9	1020	1.1	Spring	Easy	Sialkot	wildlife,photography,budget	2025-05-29T20:38:27.506540
+PKG0445	Hiran Minar	Gilgit-Baltistan	37.239396	76.061029	Cultural	8	3632	4959	7863	Private Van	4-star	4.3	1033	1.96	Autumn	Hard	Multan	food,culture,hiking	2025-10-14T20:38:27.506577
+PKG0446	Sakesar Lake	Punjab	33.944269	74.280754	Nature	7	25993	28336	31412	Private Van	4-star	3.6	941	0.37	Spring	Easy	Islamabad	culture,photography,family	2023-11-09T20:38:27.506614
+PKG0447	Bumburet Valley	Balochistan	28.584087	64.874758	Trekking	8	17854	18802	23320	Hike	Camping	4.4	1104	0.49	All Year	Moderate	Rawalpindi	culture,heritage,food	2025-09-05T20:38:27.506646
+PKG0448	Chiniot	Khyber Pakhtunkhwa	33.968147	74.825225	City	5	14535	16347	17350	Road	Luxury Resort	5.0	92	1.58	Summer	Moderate	Multan	food,hiking,wildlife	2025-10-05T20:38:27.506668
+PKG0449	Sakesar Lake	Azad Kashmir	33.547539	71.2841	City	6	3468	5655	9032	Road	Camping	3.5	500	1.81	Summer	Easy	Gilgit	family,wildlife,lake	2023-11-28T20:38:27.506693
+PKG0450	Fairy Meadows	Islamabad Capital	32.509475	72.065566	Historical	10	9051	10886	11692	Private Van	Camping	4.2	865	0.29	All Year	Hard	Sialkot	family,mountains,beach	2024-03-09T20:38:27.506715
+PKG0451	Daman-e-Koh, Islamabad	Khyber Pakhtunkhwa	33.266426	71.341805	Nature	8	9268	10177	12363	Train	4-star	5.0	1029	1.12	Autumn	Easy	Skardu	family,budget,luxury	2025-04-09T20:38:27.506738
+PKG0452	Kalat Falls	Azad Kashmir	36.584005	75.422898	Religious	5	13272	14858	15747	Train	Luxury Resort	4.8	823	9.48	Summer	Hard	Murree	lake,hiking,wildlife	2025-07-27T20:38:27.506760
+PKG0453	Kallar Kahar Viewpoint	Khyber Pakhtunkhwa	32.64019	72.39857	Cultural	7	11054	12413	15758	Road	Camping	5.0	618	0.64	All Year	Moderate	Sialkot	photography,culture,budget	2025-04-11T20:38:27.506846
+PKG0454	Noorpur Shahan	Balochistan	27.507589	66.092215	Adventure	1	5781	8395	10423	Hike	4-star	3.8	436	0.88	Winter	Moderate	Gilgit	culture,wildlife,luxury	2024-04-01T20:38:27.506889
+PKG0455	Swat Valley Trail	Azad Kashmir	31.85929	71.903888	Cultural	3	7720	9204	10936	Train	4-star	3.8	840	0.14	Autumn	Easy	Gilgit	trek,luxury,family	2025-01-12T20:38:27.506926
+PKG0456	Mansehra Fort	Sindh	25.03868	69.107394	Trekking	4	10304	11269	12997	Air	Budget Hotel	4.6	502	1.55	Autumn	Moderate	Rawalpindi	culture,luxury,hiking	2024-01-09T20:38:27.506950
+PKG0457	Attabad Lake	Sindh	24.456151	66.318584	Beach	5	8230	10985	12926	Road	Camping	4.6	995	1.52	Spring	Easy		lake,budget,wildlife	2024-12-31T20:38:27.506973
+PKG0458	Fairy Meadows	Balochistan	31.380639	67.030032	Nature	7	6889	7964	10397	Road	Luxury Resort	3.6	1024	2.21	Spring	Hard	Gilgit	wildlife,culture,family	2024-06-11T20:38:27.506998
+PKG0459	Taxila Museum	Sindh	27.098928	70.139145	City	6	16142	19035	22729	Air	4-star	4.4	446	1.25	Summer	Easy	Islamabad	trek,family,beach	2024-09-09T20:38:27.507020
+PKG0460	Lahore (city center)	Islamabad Capital	34.216886	72.982151	City	2	7782	9578	14548	Private Van	4-star	3.9	504	6.32	Autumn	Easy	Multan	beach,hiking,budget	2024-12-21T20:38:27.507041
+PKG0461	Daman-e-Koh, Islamabad	Azad Kashmir	37.300831	74.334888	Historical	4	10696	12232	15883	Train	Camping	3.7	743	0.45	Spring	Hard		trek,beach,luxury	2025-10-24T20:38:27.507073
+PKG0462	Chiniot	Khyber Pakhtunkhwa	32.805329	74.617934	Religious	5	2149	3510	5322	Private Van	Camping	4.2	649	1.2	Winter	Easy	Quetta	lake,beach,hiking	2023-10-09T20:38:27.507096
+PKG0463	Hiran Minar	Islamabad Capital	32.676333	72.574196	Nature	3	9018	10586	15233	Road	3-star	4.8	861	2.19	All Year	Hard		culture,hiking,budget	2024-07-25T20:38:27.507117
+PKG0464	Kallar Kahar Fort	Punjab	32.571853	72.848237	Adventure	8	10739	11796	12321	Private Van	Guesthouse	3.5	625	0.33	Autumn	Hard	Karachi	lake,heritage,trek	2024-05-22T20:38:27.507139
+PKG0465	Makli Necropolis Resort	Islamabad Capital	35.663728	74.618976	Trekking	6	19929	22278	26696	Air	3-star	4.3	355	1.47	All Year	Moderate	Gwadar	family,trek,lake	2024-09-03T20:38:27.507161
+PKG0466	Srinagar (historical list)	Sindh	25.860965	67.76392	Religious	1	3910	4504	6877	Road	4-star	4.3	406	2.82	Autumn	Hard		heritage,mountains,luxury	2024-02-08T20:38:27.507183
+PKG0467	Katas Raj	Gilgit-Baltistan	35.060947	72.034368	City	3	6978	9801	11262	Road	Camping	4.1	1076	3.05	Winter	Moderate		photography,beach,lake	2025-03-17T20:38:27.507209
+PKG0468	Makli Necropolis Resort	Sindh	24.643265	70.67162	Beach	5	500	2576	6205	Air	4-star	3.8	423	0.89	All Year	Easy		family,hiking,photography	2025-04-22T20:38:27.507232
+PKG0469	Larkana	Sindh	25.951145	66.375657	Beach	5	500	1000	5194	Air	3-star	4.5	1193	1.01	Winter	Easy	Lahore	beach,heritage,budget	2023-11-23T20:38:27.507266
+PKG0470	Sakesar	Azad Kashmir	32.773306	73.000973	Trekking	5	27135	27934	29214	Hike	Budget Hotel	3.6	106	1.45	Autumn	Easy	Rawalpindi	budget,wildlife,photography	2024-02-28T20:38:27.507289
+PKG0471	Makran Coastal Highway Fort	Azad Kashmir	36.359118	70.732166	Trekking	5	12847	14963	18501	Air	Luxury Resort	4.6	84	9.7	All Year	Easy	Quetta	heritage,culture,beach	2024-11-19T20:38:27.507312
+PKG0472	Tharparkar Desert	Sindh	24.037888	69.761533	Trekking	3	11124	12690	14147	Train	Budget Hotel	4.4	261	5.34	Winter	Moderate	Murree	budget,luxury,family	2025-02-05T20:38:27.507334
+PKG0473	Quaid-e-Azam's Mausoleum Point	Islamabad Capital	35.249384	71.622548	City	7	8315	9490	12574	Private Van	Guesthouse	4.2	1138	0.96	Winter	Easy	Peshawar	heritage,mountains,trek	2025-04-28T20:38:27.507356
+PKG0474	Attabad Lake	Balochistan	27.561344	67.235777	Trekking	2	15883	18410	19244	Private Van	3-star	4.5	1148	0.73	Winter	Moderate	Rawalpindi	lake,hiking,heritage	2025-06-28T20:38:27.507385
+PKG0475	Bagh, Azad Kashmir	Punjab	29.222402	70.704699	Adventure	10	12333	13950	16189	Hike	Budget Hotel	3.8	1077	0.38	All Year	Easy	Sialkot	lake,trek,beach	2023-12-09T20:38:27.507414
+PKG0476	Rohtas Fort	Khyber Pakhtunkhwa	31.155773	73.087874	Nature	7	6750	8780	10148	Train	Guesthouse	4.9	59	7.43	Spring	Moderate		hiking,photography,beach	2024-07-25T20:38:27.507436
+PKG0477	Sarhad Park	Khyber Pakhtunkhwa	34.565226	69.034832	Historical	8	13685	15515	17074	Air	Budget Hotel	4.4	579	0.28	Autumn	Easy	Murree	lake,culture,wildlife	2024-10-07T20:38:27.507459
+PKG0478	Taxila Museum	Balochistan	27.530983	64.440481	Trekking	2	29205	29789	31994	Air	4-star	4.0	824	2.89	Autumn	Hard	Gwadar	photography,heritage,lake	2024-12-31T20:38:27.507480
+PKG0479	Gwadar Beaches	Islamabad Capital	33.274151	74.878119	Beach	3	7092	9062	10349	Train	Luxury Resort	3.5	409	1.02	Winter	Moderate	Sialkot	beach,family,wildlife	2024-02-26T20:38:27.507512
+PKG0480	Sibi Mela	Punjab	32.538944	73.865966	Adventure	7	10525	12769	14030	Road	Luxury Resort	3.7	699	0.14	Winter	Hard	Peshawar	photography,food,heritage	2024-06-12T20:38:27.507534
+PKG0481	Minar-e-Pakistan Falls	Azad Kashmir	35.383352	71.203821	Cultural	7	8515	9339	13751	Train	Guesthouse	4.5	261	6.75	Autumn	Easy	Hunza	luxury,family,wildlife	2025-09-14T20:38:27.507556
+PKG0482	Sandspit Beach Viewpoint	Punjab	33.503812	72.080487	Trekking	7	3298	4185	8491	Hike	3-star	3.9	727	1.41	Autumn	Hard	Karachi	food,culture,mountains	2025-07-08T20:38:27.507579
+PKG0483	Murree Mall Road Point	Azad Kashmir	34.277274	75.417063	Trekking	1	8522	9363	13272	Train	3-star	4.1	931	2.05	Winter	Hard	Gwadar	family,budget,heritage	2025-03-30T20:38:27.507602
+PKG0484	Nathia Gali	Punjab	32.482176	72.624317	Nature	7	15552	18240	18886	Road	4-star	3.6	238	2.1	Spring	Easy	Gilgit	beach,food,luxury	2023-12-29T20:38:27.507623
+PKG0485	Skardu Shangrila Fort	Gilgit-Baltistan	37.855468	73.3168	City	7	5980	7719	8936	Air	Guesthouse	4.9	28	0.12	Summer	Easy		mountains,hiking,trek	2025-10-05T20:38:27.507645
+PKG0486	Kotli	Balochistan	29.891739	66.898439	Trekking	10	10337	11618	12823	Train	4-star	4.0	303	0.26	Winter	Moderate	Lahore	lake,heritage,hiking	2023-10-07T20:38:27.507680
+PKG0487	Karimabad Heritage Site	Balochistan	31.783201	65.828935	Cultural	4	3995	5319	8234	Hike	4-star	4.0	104	2.36	Autumn	Easy	Karachi	photography,hiking,luxury	2024-09-02T20:38:27.507717
+PKG0488	Ormara Cliffs	Azad Kashmir	34.971968	75.086471	Beach	1	6598	9094	12868	Private Van	Luxury Resort	3.8	999	10.0	Summer	Hard	Lahore	culture,mountains,luxury	2024-03-21T20:38:27.507744
+PKG0489	Ziarat	Gilgit-Baltistan	33.881063	76.857263	Trekking	8	16643	17621	22174	Hike	Camping	4.8	710	0.73	Winter	Hard	Sialkot	mountains,heritage,family	2023-10-20T20:38:27.507765
+PKG0490	Malam Jabba	Balochistan	28.063084	64.392619	Religious	6	9031	11997	16334	Air	3-star	5.0	799	1.11	Winter	Hard	Gilgit	hiking,budget,beach	2025-05-20T20:38:27.507788
+PKG0491	Daman-e-Koh Heritage Site	Sindh	25.194743	69.995526	Cultural	3	500	1000	3134	Air	Luxury Resort	4.1	1007	0.92	Spring	Moderate	Rawalpindi	family,trek,hiking	2024-04-10T20:38:27.507810
+PKG0492	Skardu Valley	Punjab	30.152721	70.564848	Adventure	3	19684	22246	23007	Road	3-star	4.0	881	2.65	Spring	Hard	Peshawar	lake,culture,trek	2024-06-21T20:38:27.507832
+PKG0493	Multan	Khyber Pakhtunkhwa	35.709315	73.616243	Beach	3	2929	5540	6893	Road	4-star	2.9	936	0.1	Spring	Easy	Gwadar	wildlife,food,lake	2024-04-05T20:38:27.507855
+PKG0494	Eagle's Nest, Gilgit	Gilgit-Baltistan	34.132467	75.279557	Religious	6	13035	14178	17071	Private Van	Luxury Resort	3.8	1020	0.29	Spring	Easy	Gilgit	budget,food,heritage	2025-06-29T20:38:27.507885
+PKG0495	Skardu Shangrila	Balochistan	31.81782	67.615316	Historical	4	500	1000	4296	Train	Luxury Resort	4.3	350	0.1	Spring	Moderate	Multan	hiking,luxury,budget	2024-01-27T20:38:27.507908
+PKG0496	Hiran Minar Valley	Sindh	24.409667	70.021043	Trekking	4	7970	9035	13047	Private Van	4-star	4.2	939	1.59	All Year	Hard	Multan	mountains,beach,heritage	2023-09-05T20:38:27.507929
+PKG0497	Lahore Fort	Azad Kashmir	36.337481	76.361857	Nature	6	20390	22179	25969	Air	4-star	4.1	125	0.21	Winter	Easy	Gilgit	photography,heritage,wildlife	2025-09-03T20:38:27.507951
+PKG0498	Ormara Cliffs Falls	Azad Kashmir	36.294425	75.95488	Beach	7	500	1841	4834	Train	3-star	4.2	16	0.79	Autumn	Hard	Skardu	heritage,hiking,luxury	2024-08-02T20:38:27.507973
+PKG0499	Ayubia National Park Park	Sindh	28.825479	69.246158	Cultural	6	5806	7962	10078	Train	Budget Hotel	5.0	75	0.94	All Year	Moderate	Sialkot	hiking,food,heritage	2024-05-18T20:38:27.508003
+PKG0500	Bahawalpur (Derawar Fort) Trail	Khyber Pakhtunkhwa	32.282407	72.07003	Beach	10	1856	3751	5561	Road	Budget Hotel	3.1	1105	3.07	All Year	Moderate	Peshawar	food,family,luxury	2024-06-02T20:38:27.508036
